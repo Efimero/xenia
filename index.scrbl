@@ -6,7 +6,7 @@
     racket/vector
     scribble/html/extra
     "helpers.rkt")
-@(define (a+img src) @a[target: "_blank" href: (~a "images/" src)]{@img[src: (~a "images/" src)]})
+@(define (a+img src) @a[target: "_blank" href: (~a "https://efimero.github.io/xenia-images/" src)]{@img[src: (~a "https://efimero.github.io/xenia-images/" src)]})
 @doctype['html]
 @html[lang: "en"]{
   @head{

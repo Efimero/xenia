@@ -42,7 +42,7 @@
       [(regexp-match? #rx"(?i:^right:\\s*$)" data)
        (values body-lv (append story-lv (divc "left" lr-lv)) null "right")]
       [(regexp-match? (rxtag "img") data)
-       (let ([url (~a "images/" (second (regexp-match (rxtag "img") data)))])
+       (let ([url (~a "https://efimero.github.io/xenia-images/" (second (regexp-match (rxtag "img") data)))])
          (values body-lv story-lv (append lr-lv (e->sl (a 'target: "_blank" 'href: url (img 'src: url)))) block-class))]
       [(regexp-match? (rxtag "sub") data)
        (values body-lv story-lv (append lr-lv (list (literal (~a "Submitted by: " (rec-parse (second (regexp-match (rxtag "sub") data))) "<br/>")))) block-class)]
