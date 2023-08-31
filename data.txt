@@ -303,7 +303,7 @@ author: @a[href: "https://twitter.com/creature_sp"]{Spade}
 sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
 source: @a[href: "https://twitter.com/creature_sp/status/1270730183771860994"]{Twitter}
 right:
-@video[src: "images/spade1.mp4" autoplay: #t loop: #t]
+@video[src: "https://efimero.github.io/xenia-images/spade1.mp4" autoplay: #t loop: #t]
 left:
 time: 2021-11-21
 author: @a[href: "https://twitter.com/cathodegaytube"]{Cathodegaytube}
