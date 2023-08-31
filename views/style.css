@@ -1,0 +1,159 @@
+/* CSS files add styling rules to your content */
+@media (max-width: 1000px) {
+  .story, footer {
+    grid-template-columns: 100% !important;
+    margin-left: 0% !important;
+    padding: 5px !important;
+    border-radius: 0 !important;
+  }
+  .story img {
+    max-width: 100% !important;
+  }
+  .right {
+    justify-self: center !important;
+    text-align: center !important;
+    max-width: 350px !important;
+  }
+}
+@media (max-width: 500px) {
+  body {
+    margin: .5em !important;
+    font-size: 1rem !important;
+  }
+  .right {
+    width: 80% !important;
+    border-radius: 0 !important;
+    padding: 2px !important;
+  }
+  .right img, .right video {
+    max-height: unset !important;
+    width: 50vw !important;
+  }
+  .left {
+    min-width: unset !important;
+  }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+body {
+  font-family: 'Questrial', helvetica, arial, sans-serif;
+  font-size: 1.3rem;
+  margin: 5%;
+  background: url("images/bg.png");
+  background-color: #831;
+  color: #9fe;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.story, footer {
+  background-color: #0002;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 1em;
+  margin-left: 2em;
+  border-left: 2px dashed #3f1808;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: 0px 20px 20px 0px;
+  min-width: min-content;
+}
+
+.left {
+  break-inside: avoid;
+  min-width: 250px;
+}
+
+.right {
+  text-align: right;
+  display: block;
+  break-inside: avoid;
+  break-before: always;
+  border-radius: 18px;
+  padding: 20px;
+  background: #c63;
+  width: max-content;
+  height: max-content;
+  justify-self: right;
+}
+
+.story img, .story video {
+  width: auto;
+  max-width: 400px;
+  max-height: 200px;
+  border: 2px outset #fa5;
+}
+
+time {
+  font-size: 0.8rem;
+  text-decoration: underline dotted;
+}
+
+strike {
+  font-size: 0.8rem;
+}
+
+a {color: #fff}
+
+flag {
+  display: block;
+  border: 1px solid;
+}
+.b {border-color: #5BCEFA;}
+.p {border-color: #F5A9B8;}
+.w {border-color: white;}
+
+comment {display: none;}
+
+.license {
+  font-size: 1.1rem;
+  background-color: #9bb4;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.author {
+  background: #402;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 5px 0 5px -5px;
+  width: max-content;
+  max-width: 100%;
+}
+
+footer .right, footer .left {
+  width: 80%;
+}
+
+footer {
+  border: 0;
+  border-radius: 20px;
+}
+
+div.webkit {
+	position: fixed;
+	top: 5px;
+	border: 2px solid #fa5;
+	background: #c63;
+	border-radius: 16px;
+	padding: 8px;
+	margin: auto;
+	left: 20%;
+	right: 20%;
+}
+
+div.webkit[disabled] {
+  display: none;
+}
+
+warn.r {
+  float: right;
+}
+
+warn.l {
+  float: left;
+}
