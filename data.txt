@@ -676,3 +676,12 @@ sub: @a[href: "https://chitter.xyz/@ben@lubar.me"]{Ben Lubar}
 source: @a[href: "https://tech.lgbt/@roxy/111004104596420961"]{tech.lgbt}
 right:
 img: roxy1.jpg
+left:
+author: @a[href: "https://plush.city/@tsunderdog"]{Tsunderdog}
+source: @a[href: "https://plush.city/@tsunderdog/111008579122878981"]{plush.city (blue)}
+source: @a[href: "https://plush.city/@tsunderdog/111008582498330479"]{plush.city (pink)}
+source: @a[href: "https://plush.city/@tsunderdog/111008588240579897"]{plush.city (trans)}
+right:
+img: tsunderdog2.png
+img: tsunderdog3.png
+img: tsunderdog4.png
