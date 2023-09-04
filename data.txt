@@ -670,3 +670,9 @@ sub: @a[href: ""https://furry.engineer/@Interstellar1/]{Interstellar_1}
 source: @a[href: "https://www.tumblr.com/colloidalamber/726942648827543552/xenia-linux-fox"]{Tumblr}
 right:
 img: colloidalamber1.jpg
+left:
+author: @a[href: "https://tech.lgbt/@roxy"]{Roxanne}
+sub: @a[href: "https://chitter.xyz/@ben@lubar.me"]{Ben Lubar}
+source: @a[href: "https://tech.lgbt/@roxy/111004104596420961"]{tech.lgbt}
+right:
+img: roxy1.jpg
