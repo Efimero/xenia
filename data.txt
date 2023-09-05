@@ -685,3 +685,8 @@ right:
 img: tsunderdog2.png
 img: tsunderdog3.png
 img: tsunderdog4.png
+left:
+author: @a[href: "https://dragon.style/@xinjinmeng"]{Xīn Jīn Měng}
+source: @a[href: "https://dragon.style/@xinjinmeng/111008984389660500"]{dragon.style}
+right:
+img: xinjinmeng2.png
