@@ -532,8 +532,8 @@ author: @a[href: "https://nitecrew.rip/@extinct"]{Extinct}
 sub: @a[href: "https://rheinhessen.social/@dmowitz"]{Daniel}
 source: @a[href: "https://chitter.xyz/@dmowitz@rheinhessen.social/110220687798558764"]{rheinhessen.social cached on chitter.xyz}
 Commissioned work.@br
-Both are licensed under CC BY-NC-SA 4.0.@br
 The "Linux" lettering is by @a[href: "https://ericson.net/"]{Matthew Ericson}
+license: Both are licensed under CC BY-NC-SA 4.0.@br
 right:
 img: extinct1.png
 img: extinct3.png
@@ -671,12 +671,14 @@ source: @a[href: "https://www.tumblr.com/colloidalamber/726942648827543552/xenia
 right:
 img: colloidalamber1.jpg
 left:
+time: 2023-09-04
 author: @a[href: "https://tech.lgbt/@roxy"]{Roxanne}
 sub: @a[href: "https://chitter.xyz/@ben@lubar.me"]{Ben Lubar}
 source: @a[href: "https://tech.lgbt/@roxy/111004104596420961"]{tech.lgbt}
 right:
 img: roxy1.jpg
 left:
+time: 2023-09-04
 author: @a[href: "https://plush.city/@tsunderdog"]{Tsunderdog}
 source: @a[href: "https://plush.city/@tsunderdog/111008579122878981"]{plush.city (blue)}
 source: @a[href: "https://plush.city/@tsunderdog/111008582498330479"]{plush.city (pink)}
@@ -686,7 +688,75 @@ img: tsunderdog2.png
 img: tsunderdog3.png
 img: tsunderdog4.png
 left:
+time: 2023-09-04
 author: @a[href: "https://dragon.style/@xinjinmeng"]{Xīn Jīn Měng}
 source: @a[href: "https://dragon.style/@xinjinmeng/111008984389660500"]{dragon.style}
 right:
 img: xinjinmeng2.png
+left:
+time: 2023-08-07
+author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
+source: @a[href: "https://toot.finfur.net/@Neotheta/110848259687649111"]{finfur.net}
+right:
+img: neotheta2.png
+left:
+time: 2023-08-07
+author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+source: @a[href: "https://meow.social/@rinidisc/110849344750985991"]{meow.social}
+right:
+img: RiniDisc16.png
+left:
+time: 2023-05-15
+author: Connorduh
+sub: @a[href: "https://toot.site/@katnjiapus"]{katnjiapus}
+source: @a[href: "https://toot.site/@katnjiapus/110374658821053121"]{toot.site}
+This work was commissioned, but I couldn't find a proper profile online to attribute the artist. Any information on it appreciated.
+right:
+img: connorduh1.png
+left:
+time: 2023-09-11
+author: @a[href: "https://woof.tech/@naomi_dmoon"]{Naomi d'Moon}
+source: @a[href: "https://woof.tech/@naomi_dmoon/111046434416466161"]{woof.tech}
+right:
+img: naomidmoon1.png
+img: naomidmoon2.png
+img: naomidmoon3.png
+@br
+img: naomidmoon4.png
+img: naomidmoon5.png
+left:
+time: 2023-09-12
+author: @a[href: "https://twitter.com/Puapka1"]{Puapka1}
+sub: @a[href: "https://girldick.gay/@ZoeTheArchCatgirl"]{Zoe}
+source: @a[href: "https://twitter.com/Puapka1/status/1701664613576687835"]{Twitter}
+license: CC BY-NC-SA 4.0 
+right:
+img: puapka1-1.jpeg
+img: puapka1-2.jpeg
+img: puapka1-3.png
+left:
+time: 2023-09-16
+author: @a[href: "https://yiff.life/@EeveeEuphoria"]{EeveeEuphoria}
+source: @a[href: "https://yiff.life/@EeveeEuphoria/111074395436650291"]{yiff.life}
+right:
+img: Eevee4.png
+left:
+time: 2023-09-16
+author: @a[href: "https://dragon.style/@anthracite"]{Anthracite}
+sub: @a[href: "https://chitter.xyz/@konomikitten@tech.lgbt"]{Konomi}
+source: @a[href: "https://dragon.style/@anthracite/111076340708497588"]{dragon.style}
+right:
+img: anthracite1.jpg
+left:
+time: 2023-09-21
+author: @a[href: "https://yiff.life/@creature_sp"]{creature_sp}
+source: @a[href: "https://yiff.life/@creature_sp/111105028946083113"]{yiff.life}
+right:
+img: creature_sp1.png
+left:
+time: 2023-09-17
+author: @a[href: "https://www.jacknorisk.art/"]{Jack Norisk (Laura Giraud)}
+sub: @a[href: "https://chitter.xyz/@mindraj@translunar.academy"]{mindraj}
+This commission work has not been posted publicly by the author.
+right:
+img: JackNorisk1.png
