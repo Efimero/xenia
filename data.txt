@@ -58,14 +58,14 @@ img: flyinghyena1.jpeg
 left:
 time: 2021-05-05
 author: @a[href: "https://cybre.space/@apt"]{apt}
-source: @a[href: "https://archive.is/rTDpr"]{Cybre space}
+source: @a[href: "https://archive.is/rTDpr"]{cybre.space}
 right:
 img: apt1.png
 left:
 @br
 author: @a[href: "https://chitter.xyz/@danfoxx"]{Danfoxx}
 sub: @a[href: "https://mastodon.online/@Wafer"]{Wafer} @time[datetime: "2022-07-28" title: "2022-07-28"]{(This piece was originally accidentally misatributted to Wafer)}
-source: @a[href: "https://chitter.xyz/@danfoxx/106179176796834932"]{Chitter xyz}
+source: @a[href: "https://chitter.xyz/@danfoxx/106179176796834932"]{chitter.xyz}
 right:
 img: wafer1.png
 left:
@@ -97,7 +97,7 @@ img: hukengart1.jpg
 left:
 time: 2021-05-23
 author: @a[href: "https://vulpine.club/@fudge_the_sphinx"]{Fudge}
-source: @a[href: "https://vulpine.club/@fudge_the_sphinx/106286337204256346"]{Vulpine club}
+source: @a[href: "https://vulpine.club/@fudge_the_sphinx/106286337204256346"]{vulpine.club}
 right:
 img: fudge1.png
 left:
@@ -238,7 +238,7 @@ img: zwiebelprinz2.jpeg
 left:
 time: 2022-11-13
 author: @a[href: "https://tech.lgbt/@EeveeEuphoria"]{EeveeEuphoria}
-source: @a[href: "https://tech.lgbt/@EeveeEuphoria/109337642942177266"]{Tech lgbt}
+source: @a[href: "https://tech.lgbt/@EeveeEuphoria/109337642942177266"]{tech.lgbt}
 right:
 img: Eevee1.png
 left:
@@ -323,32 +323,32 @@ left:
 time: 2022-12-19
 author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
 sub: @a[href: "https://mstdn.social/@ifixcoinops"]{Dan}
-source: @a[href: "https://meow.social/@rinidisc/109537437306131897"]{Meow social}
+source: @a[href: "https://meow.social/@rinidisc/109537437306131897"]{meow.social}
 right:
 img: RiniDisc2.png
 img: RiniDisc3.png
 left:
 time: 2022-12-17
 author: @a[href: "https://plush.city/@tsunderdog"]{Tsunderdog}
-source: @a[href: "https://plush.city/@tsunderdog/109530055614492959"]{Plush city}
+source: @a[href: "https://plush.city/@tsunderdog/109530055614492959"]{plush.city}
 right:
 img: tsunderdog1.png
 left:
 time: 2022-12-21
 author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
-source: @a[href: "https://meow.social/@rinidisc/109548817592975903"]{Meow social}
+source: @a[href: "https://meow.social/@rinidisc/109548817592975903"]{meow.social}
 right:
 img: RiniDisc4.png
 left:
 time: 2022-12-25
 author: @a[href: "https://twitter.com/TacoPhox"]{TACO.phox}
-source: @a[href: "https://meow.social/@tacophox/109576216706114904"]{}
+source: @a[href: "https://meow.social/@tacophox/109576216706114904"]{meow.social}
 right:
 img: tacophox2.png
 left:
 time: 2022-11-18
 author: @a[href: "https://snowdin.town/users/tosia"]{Tosia}
-source: @a[href: "https://snowdin.town/objects/2c53ac01-8463-42ef-93e0-65b84b888340"]{Snowdin town}
+source: @a[href: "https://snowdin.town/objects/2c53ac01-8463-42ef-93e0-65b84b888340"]{snowdin.town}
 right:
 img: tosia1.png
 img: tosia2.png
@@ -364,14 +364,14 @@ left:
 time: 2023-01-08
 author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
 sub: @a[href: "https://equestria.social/@fauli1221"]{Fauli}
-source: @a[href: "https://meow.social/@rinidisc/109650834427826048"]{Meow social}
+source: @a[href: "https://meow.social/@rinidisc/109650834427826048"]{meow.social}
 right:
 img: RiniDisc5.png
 img: RiniDisc6.png
 left:
 time: 2023-02-01
 author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
-source: @a[href: "https://meow.social/@rinidisc/109791952664927854"]{Meow social}
+source: @a[href: "https://meow.social/@rinidisc/109791952664927854"]{meow.social}
 right:
 img: RiniDisc7.png
 img: RiniDisc8.png
@@ -381,7 +381,7 @@ img: RiniDisc10.png
 left:
 time: 2023-02-16
 author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
-source: @a[href: "https://meow.social/@rinidisc/109871851030068460"]{Meow social}
+source: @a[href: "https://meow.social/@rinidisc/109871851030068460"]{meow.social}
 right:
 img: RiniDisc11.png
 left:
@@ -394,7 +394,7 @@ img: heatherhorns1.jpg
 left:
 time: 2022-11-14
 author: @a[href: "https://cohost.org/MewMus"]{Rose}
-source: @a[href: "https://cohost.org/MewMus/post/296505-poor-xenia-seems-sh"]{Cohost.org}
+source: @a[href: "https://cohost.org/MewMus/post/296505-poor-xenia-seems-sh"]{cohost.org}
 Seems Xenia found something rather flustering whilst using her computer.
 right:
 img: mewmus1.png
@@ -402,7 +402,7 @@ left:
 time: 2023-01-18
 author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
 sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
-source: @a[href: "https://meow.social/@rinidisc/109713069555919700"]{Meow social}
+source: @a[href: "https://meow.social/@rinidisc/109713069555919700"]{meow.social}
 Xenia hugs her Tux plushy.
 right:
 img: RiniDisc12.png
@@ -410,7 +410,7 @@ left:
 time: 2022-12-26
 author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
 sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
-source: @a[href: "https://meow.social/@rinidisc/109580477577647312"]{Meow social}
+source: @a[href: "https://meow.social/@rinidisc/109580477577647312"]{meow.social}
 Xenia is being overbearing about her computer opinions!
 right:
 img: RiniDisc13.jpeg
@@ -469,7 +469,7 @@ left:
 time: 2022-12-29
 author: @a[href: "https://meow.social/@voltbun"]{VoltBun}
 sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
-source: @a[href: "https://meow.social/@voltbun/109600348286574222"]{Meow social}
+source: @a[href: "https://meow.social/@voltbun/109600348286574222"]{meow.social}
 right:
 img: voltbun1.png
 left:
@@ -659,7 +659,7 @@ left:
 time: 2023-08-29
 author: @a[href: "https://www.furaffinity.net/user/wolfspropcreations/"]{Wolf's Prop Creations}
 sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
-source: @a[href: "https://www.furaffinity.net/view/53474137/"]{FurAffinity}
+source: @a[href: "https://www.furaffinity.net/view/53474137/"]{Fur Affinity}
 An actual puppet of Xenia, as @a[href: "https://meow.social/@nickisdoge/110973136617818577"]{commissioned by nickisdoge}!
 right:
 img: wolfspropcreations1.jpg
