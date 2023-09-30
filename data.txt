@@ -666,7 +666,7 @@ img: wolfspropcreations1.jpg
 left:
 time: 2023-08-29
 author: @a[href: "https://www.tumblr.com/colloidalamber"]{colloidalamber}
-sub: @a[href: ""https://furry.engineer/@Interstellar1/]{Interstellar_1}
+sub: @a[href: "https://furry.engineer/@Interstellar1/"]{Interstellar_1}
 source: @a[href: "https://www.tumblr.com/colloidalamber/726942648827543552/xenia-linux-fox"]{Tumblr}
 right:
 img: colloidalamber1.jpg
