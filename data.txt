@@ -760,3 +760,9 @@ sub: @a[href: "https://chitter.xyz/@mindraj@translunar.academy"]{mindraj}
 This commission work has not been posted publicly by the author.
 right:
 img: JackNorisk1.png
+left:
+time: 2023-10-19
+author: @a[href: "https://twitter.com/BlindSight_Art"]{BlindSight_Art}
+source: @a[href: "https://twitter.com/BlindSight_Art/status/1715122897889399014"]{Twitter}
+right:
+img: BlindSight_Art.png
