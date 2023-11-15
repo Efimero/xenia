@@ -24,7 +24,7 @@ img: questfortori2.png
 img: questfortori3.png
 left:
 time: 2020-10-09
-author: @a[href: "https://yiff.life/@jd_werewolf"]{JD Laclede} and Bottles221 (whose profile has been deleted since) respectively.
+author: @a[href: "https://linktr.ee/cupsofjade"]{Jade} and Bottles221 (whose profile has been deleted since) respectively.
 sub: @a[href: "https://chitter.xyz/@fl4nn"]{Sqx. Flann}
 right:
 img: jd-laclede1.webp
