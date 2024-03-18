@@ -867,3 +867,10 @@ source: @a[href: "https://catcatnya.com/@gameplayervent/112002632568374927"]{cat
 source: @a[href: "https://xenia.chimmie.k.vu/#xenia_skylar4"]{xenia.chimmie.k.vu (SVG)}
 right:
 img: chimmie_sunset.png
+left:
+time: 2024-03-05
+author: @a[href: "https://metapixl.com/squeakypancakes"]{squeakypancakes}
+source: @a[href: "https://metapixl.com/p/squeakypancakes/670622244542348316"]{metapixl.com}
+right:
+img: squeakypancakes1.png
+
