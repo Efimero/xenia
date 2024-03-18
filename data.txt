@@ -829,6 +829,12 @@ source: @a[href: "https://is-a.cat/@madargon/111851815407668236"]{is-a.cat}
 right:
 img: madragon_cosplay.png
 left:
+time: 2024-02-05
+author: @a[href: "https://pawb.fun/@DuetSneplynx"]{DuetSneplynx}
+source: @a[href: "https://pawb.fun/@DuetSneplynx/111876696515984932"]{pawb.fun}
+right:
+img: DuetSneplynx_Taur.png
+left:
 time: 2024-02-08
 author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
 source: @a[href: "https://toot.finfur.net/@Neotheta/111896143000694798"]{finfur.net}
