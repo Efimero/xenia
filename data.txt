@@ -849,6 +849,12 @@ source: @a[href: "https://xenia.chimmie.k.vu/#xenia_thank_you"]{xenia.chimmie.k.
 right:
 img: chimmie_valentine.png
 left:
+time: 2024-02-17
+author: @a[href: "https://foxpile.online/@lennox"]{lennox}
+source: @a[href: "https://foxpile.online/@lennox/111949178623744636"]{foxpile.online}
+right:
+img: lennox1.png
+left:
 time: 2024-02-23
 author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
 source: @a[href: "https://meow.social/@rinidisc/111978506970239369"]{meow.social}
