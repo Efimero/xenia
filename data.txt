@@ -873,4 +873,10 @@ author: @a[href: "https://metapixl.com/squeakypancakes"]{squeakypancakes}
 source: @a[href: "https://metapixl.com/p/squeakypancakes/670622244542348316"]{metapixl.com}
 right:
 img: squeakypancakes1.png
+left:
+time: 2024-03-09
+author: @a[href: "https://wetdry.world/@drakonic"]{drakonic}
+source: @a[href: "https://wetdry.world/@drakonic/112066459888207366"]{wetdry.world}
+right:
+img: drakonic_stickers.png
 
