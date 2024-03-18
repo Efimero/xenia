@@ -823,6 +823,12 @@ source: @a[href: "https://meow.social/@rinidisc/111828626416516116"]{meow.social
 right:
 img: RiniDisc_CompLab.png
 left:
+time: 2024-01-31
+author: @a[href: "https://is-a.cat/@madargon"]{madargon}
+source: @a[href: "https://is-a.cat/@madargon/111851815407668236"]{is-a.cat}
+right:
+img: madragon_cosplay.png
+left:
 time: 2024-02-08
 author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
 source: @a[href: "https://toot.finfur.net/@Neotheta/111896143000694798"]{finfur.net}
