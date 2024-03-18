@@ -804,6 +804,12 @@ source: @a[href: "https://xenia.chimmie.k.vu/#xenia_drawing5-1"]{xenia.chimmie.k
 right:
 img: chimmie_fedi-wallpaper.png
 left:
+time: 2024-01-27
+author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+source: @a[href: "https://meow.social/@rinidisc/111828626416516116"]{meow.social}
+right:
+img: RiniDisc_CompLab.png
+left:
 time: 2024-02-08
 author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
 source: @a[href: "https://toot.finfur.net/@Neotheta/111896143000694798"]{finfur.net}
@@ -817,6 +823,12 @@ source: @a[href: "https://catcatnya.com/@gameplayervent/111928896068686879"]{cat
 source: @a[href: "https://xenia.chimmie.k.vu/#xenia_thank_you"]{xenia.chimmie.k.vu (SVG)}
 right:
 img: chimmie_valentine.png
+left:
+time: 2024-02-23
+author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+source: @a[href: "https://meow.social/@rinidisc/111978506970239369"]{meow.social}
+right:
+img: RiniDisc_Reference.png
 left:
 time: 2024-02-27
 author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
