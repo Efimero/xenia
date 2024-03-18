@@ -783,6 +783,13 @@ source: @a[href: "https://xenia.chimmie.k.vu/#xenia_firefox"]{xenia.chimmie.k.vu
 right:
 img: chimmie_firefox.png
 left:
+time: 2023-12-11
+author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
+source: @a[href: "https://toot.finfur.net/@Neotheta/111562836805927368"]{finfur.net}
+source: @a[href: "https://www.furaffinity.net/view/54764470/"]{furaffinity.net}
+right:
+img: neotheta_666.png
+left:
 time: 2023-01-03
 author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
 source: @a[href: "https://catcatnya.com/@gameplayervent/111691462209187033"]{catcatnya.com}
@@ -796,6 +803,13 @@ source: @a[href: "https://catcatnya.com/@gameplayervent/111784520719298209"]{cat
 source: @a[href: "https://xenia.chimmie.k.vu/#xenia_drawing5-1"]{xenia.chimmie.k.vu (SVG)}
 right:
 img: chimmie_fedi-wallpaper.png
+left:
+time: 2024-02-08
+author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
+source: @a[href: "https://toot.finfur.net/@Neotheta/111896143000694798"]{finfur.net}
+source: @a[href: "https://www.furaffinity.net/view/55465303/"]{furaffinity.net}
+right:
+img: neotheta_sigil.png
 left:
 time: 2024-02-14
 author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
