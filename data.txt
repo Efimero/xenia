@@ -797,6 +797,12 @@ source: @a[href: "https://xenia.chimmie.k.vu/#xenia_drawing1"]{xenia.chimmie.k.v
 right:
 img: chimmie_portrait.png
 left:
+time: 2024-01-07
+author: @a[href: "https://chitter.xyz/@kkzero"]{kkzero}
+source: @a[href: "https://chitter.xyz/@kkzero/111711746352646614"]{chitter.xyz}
+right:
+img: kkzero_klonoa.png
+left:
 time: 2024-01-19
 author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
 source: @a[href: "https://catcatnya.com/@gameplayervent/111784520719298209"]{catcatnya.com}
