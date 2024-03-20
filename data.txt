@@ -879,4 +879,10 @@ author: @a[href: "https://wetdry.world/@drakonic"]{drakonic}
 source: @a[href: "https://wetdry.world/@drakonic/112066459888207366"]{wetdry.world}
 right:
 img: drakonic_stickers.png
+left:
+time: 2024-03-20
+author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+source: @a[href: "https://meow.social/@rinidisc/112129420337449442"]{meow.social}
+right:
+img: RiniDisc_Goth.png
 
