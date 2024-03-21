@@ -915,3 +915,10 @@ source: @a[href: "https://wetdry.world/@jessienab/112123633119764212"]{wetdry.wo
 Commission work plushy. Very huggable.
 --
 img: Xenia_plushy.jpg
+--
+time: 2024-02-24
+aref: vectorassembly
+source: @a[href: "https://md.ilyamikcoder.com/@de_lysander/111986685334869179"]{md.ilyamikcoder.com}
+--
+img: vectorassembly1.png
+img: vectorassembly2.png

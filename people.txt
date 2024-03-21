@@ -93,6 +93,7 @@ tosia Tosia https://snowdin.town/users/tosia
 tsunderdog Tsunderdog https://plush.city/@tsunderdog
 tudbut TudbuT https://chitter.xyz/@TudbuT@tech.lgbt
 usbfig USB https://twitter.com/USBFIG
+vectorassembly vectorassembly https://md.ilyamikcoder.com/@de_lysander
 virtualrook VirtualRook https://mstdn.games/@VirtualRook
 voltbun VoltBun https://meow.social/@voltbun
 wolfprops Wolf's Prop Creations https://www.furaffinity.net/user/wolfspropcreations/
