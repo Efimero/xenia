@@ -764,7 +764,7 @@ left:
 time: 2023-10-18
 author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
 source: @a[href: "https://catcatnya.com/@gameplayervent/111256947111329208"]{catcatnya.com (dark)}
-source: @a[href: "https://catcatnya.com/@gameplayervent/111262354736648707"]{catcatnya.com (ligh)}
+source: @a[href: "https://catcatnya.com/@gameplayervent/111262354736648707"]{catcatnya.com (light)}
 source: @a[href: "https://xenia.chimmie.k.vu/#wallpaper"]{xenia.chimmie.k.vu (SVG)}
 right:
 img: chimmie_egg-wallpaper_dark.png
@@ -885,4 +885,33 @@ author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
 source: @a[href: "https://meow.social/@rinidisc/112129420337449442"]{meow.social}
 right:
 img: RiniDisc_Goth.png
-
+left:
+time: 2024-01-06
+author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+source: @a[href: "https://meow.social/@rinidisc/111711281630824983"]{meow.social}
+right:
+img: RiniDisc_infodump.png
+left:
+time: 2023-12-21
+author: @a[href: "https://chitter.xyz/@koko@yiff.life"]{Ko}
+source: @a[href: "https://yiff.life/@koko/111618932283595363"]{yiff.life}
+right:
+img: Koko_opinions1.png
+img: Koko_opinions2.png
+@br
+img: Koko_opinions3.png
+img: Koko_opinions4.png
+left:
+time: 2024-02-14
+author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+source: @a[href: "https://catcatnya.com/@gameplayervent/111929946075683492"]{catcatnya.com}
+source: @a[href: "https://xenia.chimmie.k.vu/#xenia_drawing6"]{xenia.chimmie.k.vu (SVG)}
+right:
+img: chimmie_shark.png
+left:
+time: 2024-03-19
+author: Unknown
+source: @a[href: "https://wetdry.world/@jessienab/112123633119764212"]{wetdry.world}
+Commission work plushy. Very huggable.
+right:
+img: Xenia_plushy.jpg
