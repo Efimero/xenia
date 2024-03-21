@@ -1,917 +1,917 @@
-left:
+--
 time: 2020-05-26
 @time[datetime: "2021-04-25" title: "2021-04-25"]{(Snouts Online has been gone for a bit, so that profile is no longer available)}@br
 In order, @a[href: "https://mastodon.art/@firstprogenitor"]{FirstProgenitor}, @a[href: "https://plush.city/@heatherhorns"]{HeatherHorns}, and Marbles made these versions, later made into @comment{@a[href: "https://masto.werefox.dev/@shadow8t4/104389870380303106"]{stickers} by @a[href: "https://masto.werefox.dev/@shadow8t4/104389870380303106"]{Shadow8t4}}stickers by @a[href: "https://yiff.life/@werefox"]{Alice}@comment{@time[datetime: "2022-07-28" title: "2022-07-28"]{(It seems werefox.dev is also gone now)}}.
-right:
+--
 img: firstprogenitor1.png
 img: heyheather1.png
 img: marbles1.png
 @br
 img: shadow8t4-stickers.jpg
-left:
+--
 Additionally, here's a version of Cathodegaytube's original slightly edited to fit as a splash screen for linux.
-right:
+--
 img: cathodegaytube-splash.png
-left:
+--
 time: 2020-07-04
 The following are a series of icons that try to give her an application as a logotype, instead of just the more figurative illustrations.@br
-author: @a[href: "https://mastodon.social/@QuestForTori"]{Tori}
+aref: tori
 source: @a[href: "https://twitter.com/QuestForTori/status/1279290356387872769"]{Twitter}
 license: These are @a[href: "https://twitter.com/QuestForTori/status/1279558009425821696"]{free to use} for developers as long as they're properly attributed, so go ahead!
-right:
+--
 img: questfortori1.png
 img: questfortori2.png
 img: questfortori3.png
-left:
+--
 time: 2020-10-09
 author: @a[href: "https://linktr.ee/cupsofjade"]{Jade} and Bottles221 (whose profile has been deleted since) respectively.
-sub: @a[href: "https://chitter.xyz/@fl4nn"]{Sqx. Flann}
-right:
+sref: sqxflann
+--
 img: jd-laclede1.webp
 img: bottles221-1.jpg
-left:
+--
 time: 2020-11-21
-author: @a[href: "https://twitter.com/cathodegaytube"]{Cathodegaytube}
+aref: cathodegaytube
 source: @a[href: "https://twitter.com/cathodegaytube/status/1330030061324562433"]{Twitter}
-right:
+--
 img: cathodegaytube2.jpeg
-left:
+--
 time: 2021-01-24
 author: @a[href: "https://twitter.com/WaferMouse"]{WaferMouse} with @a[href: "https://twitter.com/cathodegaytube"]{CathodeGayTube}
 source: @a[href: "https://twitter.com/WaferMouse/status/1353303445026050048"]{Twitter}
-right:
+--
 img: wafermouse1.jpeg
-left:
+--
 time: 2021-04-23
-author: @a[href: "https://twitter.com/cathodegaytube"]{Cathodegaytube}
+aref: cathodegaytube
 source: @a[href: "https://twitter.com/cathodegaytube/status/1385505428964986885"]{Twitter}
-right:
+--
 img: cathodegaytube4.jpeg
-left:
+--
 time: 2021-04-25
-author: @a[href: "https://twitter.com/Flying_Hyena"]{Flying Hyena}
-sub: @a[href: "https://twitter.com/Jik_hai"]{Jik Hai}
+aref: flyinghyena
+sref: jikhai
 Jik Hai commissioned Glying Hyena.
 Beautiful! The fluffiest linux mascot is back!
-right:
+--
 img: flyinghyena1.jpeg
-left:
+--
 time: 2021-05-05
-author: @a[href: "https://cybre.space/@apt"]{apt}
+aref: apt
 source: @a[href: "https://archive.is/rTDpr"]{cybre.space}
-right:
+--
 img: apt1.png
-left:
+--
 @br
-author: @a[href: "https://chitter.xyz/@danfoxx"]{Danfoxx}
+aref: danfox
 sub: @a[href: "https://mastodon.online/@Wafer"]{Wafer} @time[datetime: "2022-07-28" title: "2022-07-28"]{(This piece was originally accidentally misatributted to Wafer)}
 source: @a[href: "https://chitter.xyz/@danfoxx/106179176796834932"]{chitter.xyz}
-right:
+--
 img: wafer1.png
-left:
+--
 time: 2021-05-09
-author: @a[href: "https://awoo.fai.st/users/dendy"]{Dendy}
+aref: dendy
 source: @a[href: "https://e621.net/posts/2733376"]{e621.net}
-right:
+--
 img: dendy1.png
-left:
+--
 time: 2021-05-14
-author: @a[href: "https://twitter.com/CRICKETS_ROCK"]{Cricket}
-sub: @a[href: "https://twitter.com/luavixen"]{Lua}
+aref: cricket
+sref: luavixen
 source: @a[href: "https://twitter.com/CRICKETS_ROCK/status/1393127088320770050"]{Twitter}
 Lua commissioned Cricket to make this cute art of Xenia at work.
-right:
+--
 img: cricket1.jpeg
-left:
-author: @a[href: "https://twitter.com/NeriTheKitten"]{NeriTheKitten}
-sub: @a[href: "https://twitter.com/luavixen"]{Lua}
+--
+aref: nerithekitten
+sref: luavixen
 source: @a[href: "https://twitter.com/luavixen/status/1393253170680238084"]{Twitter}
-right:
+--
 img: nerithekitten1.jpeg
-left:
+--
 time: 2021-05-20
-author: @a[href: "https://twitter.com/HukengArt"]{HukengArt}
+aref: hukeng
 source: @a[href: "https://twitter.com/HukengArt/status/1395444535258402824?s=20"]{Twitter}, @a[href: "https://www.furaffinity.net/view/41968334/"]{Fur Affinity} and @a[href: "https://www.deviantart.com/hukeng/art/Xenia-880111456"]{DeviantArt}
-right:
+--
 img: hukengart1.jpg
-left:
+--
 time: 2021-05-23
-author: @a[href: "https://vulpine.club/@fudge_the_sphinx"]{Fudge}
+aref: fudge
 source: @a[href: "https://vulpine.club/@fudge_the_sphinx/106286337204256346"]{vulpine.club}
-right:
+--
 img: fudge1.png
-left:
+--
 time: 2021-05-25
-author: @a[href: "https://twitter.com/BiccaBee"]{Bica Bee}
+aref: bicabee
 source: @a[href: "https://twitter.com/BiccaBee/status/1397008731687333897"]{Twitter}
 Commission work.
-right:
+--
 img: bicabee1.jpeg
-left:
+--
 time: 2021-05-29
-author: @a[href: "https://www.furaffinity.net/user/lizzieliz/"]{lizzieliz}
-sub: @a[href: "https://mstdn.social/@soaku"]{Soaku}
+aref: lizzieliz
+sref: soaku
 source: @a[href: "https://www.furaffinity.net/view/36600939/"]{Fur Affinity}
-right:
+--
 img: lizzieliz1.jpg
-left:
-author: @a[href: "https://www.deviantart.com/praetorinfinite"]{PraetorInfinite}
-sub: @a[href: "https://www.reddit.com/user/Zutroy2117/"]{Zutroy}
+--
+aref: praetorinfinite
+sref: zutroy
 source: @a[href: "https://www.reddit.com/r/furry/comments/jfz8di/oc_xenia_the_forgotten_linux_mascot/"]{Reddit}
 Made for @a[href: "https://www.deviantart.com/praetorultra/art/Xenia-858827241"]{DeviantArt}
-right:
+--
 img: praetorinfinite1.jpg
-left:
+--
 time: 2021-07-15
-author: @a[href: "https://twitter.com/cathodegaytube"]{Cathodegaytube}
+aref: cathodegaytube
 source: @a[href: "https://twitter.com/cathodegaytube/status/1415793225940406273"]{Twitter}
-right:
+--
 img: cathodegaytube3.jpeg
-left:
+--
 time: 2021-07-18
-author: @a[href: "https://twitter.com/Flying_Hyena"]{Flying Hyena}
-sub: @a[href: "https://toot.gnous.eu/@rick"]{Rick}
+aref: flyinghyena
+sref: rick
 source: @a[href: "https://twitter.com/Flying_Hyena/status/1416811727778459653"]{Twitter}
 Commission work.
-right:
+--
 img: flyinghyena2.jpeg
-left:
+--
 time: 2021-08-12
-author: @a[href: "https://twitter.com/artlamna"]{Lamna}
+aref: lamna
 source: @a[href: "https://twitter.com/artlamna/status/1425907483940380684"]{Twitter}
-right:
+--
 img: lamna1.jpeg
-left:
+--
 time: 2021-11-21
-author: @a[href: "https://twitter.com/cathodegaytube"]{Cathodegaytube}
+aref: cathodegaytube
 source: @a[href: "https://twitter.com/cathodegaytube/status/1462314685634543618"]{Twitter}
-right:
+--
 img: cathodegaytube5.jpeg
-left:
+--
 time: 2021-11-26
-author: @a[href: "https://twitter.com/Zwiebelprinz"]{Zweibelprinz}
-sub: @a[href: "https://yip.vulpine.engineer/@digitalfox"]{Digital fox}
+aref: zwiebelprinz
+sref: digitalfox
 source: @a[href: "https://twitter.com/Zwiebelprinz/status/1463901450942271493"]{Twitter}
 To be fair, nobody is born with programming knowledge!
-right:
+--
 img: zwiebelprinz1.jpeg
-left:
+--
 time: 2022-01-10
-author: @a[href: "https://www.deviantart.com/toisanemoifs"]{ToisaNeMoifs}
-sub: @a[href: "https://equestria.social/@g1comics"]{Fell beast}
+aref: toisanemoifs
+sref: fellbeast
 source: @a[href: "https://www.deviantart.com/toisanemoifs/art/Xenia-903364698"]{DeviantArt}
-right:
+--
 img: xenia_by_toisanemoifs1.jpg
-left:
+--
 time: 2022-02-05
-author: @a[href: "https://chitter.xyz/@kaydemonlp"]{Kay}
+aref: kay
 Xenia and "Libbie the Cyber Orix".
-right:
+--
 img: kay1.jpeg
 img: kay2.png
-left:
+--
 time: 2022-04-25
-author: @a[href: "https://www.marikedrawinge.com/"]{Marie}
-sub: @a[href: "https://timetheft.social/@candle"]{Candle}
-right:
+aref: mariken
+sref: candle
+--
 img: marie1.png
-left:
+--
 time: 2022-05-06
-author: @a[href: "https://wetdry.world/@ioletsgo"]{Ioletsgo}
+aref: ivory
 Vector piece and neofetch asciiart of it!
-right:
+--
 img: ioletsgo1.png
 @br
 img: ioletsgo2.png
-left:
+--
 time: 2022-06-11
-author: @a[href: "https://chitter.xyz/@Zaeroses"]{Zaeroses}
+aref: zaeroses
 license: Free for anyone to use.
 Check out this @a[href: "https://github.com/Commenter25/userstuffs#-xenia-as-linux-icon"]{cool use} of it.
-right:
+--
 img: zaeroses2.png
 img: zaeroses1.svg
-left:
+--
 time: 2021-12-05
 author: Massimo Gismondi
-sub: @a[href: "https://yip.vulpine.engineer/@digitalfox"]{digitalfox}
+sref: digitalfox
 source: @a[href: "https://online.supertuxkart.net/addons.php?type=karts&name=xenia"]{Addon download on supertuxcart.net}
 license: Creative Commons BY SA 4.0
-right:
+--
 @iframe[width: 560 height: 315 src: "https://www.youtube.com/embed/LlFVNH9xP8s" title: "YouTube video player" frameborder: "0" allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen]
-left:
+--
 time: 2021-09-09
-author: @a[href: "https://twitter.com/USBFIG"]{USB}
-sub: @a[href: "https://hellsite.site/@mocchapi"]{(lis)anne}
+aref: usbfig
+sref: mocchapi
 source: @a[href: "https://twitter.com/USBFIG/status/1435790274886787072"]{Twitter}
-right:
+--
 img: USBFIG1.jpeg
-left:
+--
 time: 2021-07-24
-author: @a[href: "https://twitter.com/QmiiProductions"]{Q-mii}
-sub: @a[href: "https://hellsite.site/@mocchapi"]{(lis)anne}
+aref: qmii
+sref: mocchapi
 source: @a[href: "https://twitter.com/QmiiProductions/status/1418823824066236417"]{Twitter}
 Commission work for foorjee.
-right:
+--
 img: Q-mii1.png
-left:
+--
 time: 2022-03-10
-author: @a[href: "https://twitter.com/RiniDisc"]{RiniDisc}
-sub: @a[href: "https://corn.social/@suchipi"]{Lily Suchipi}
+aref: rinidisc
+sref: suchipi
 source: @a[href: "https://twitter.com/RiniDisc/status/1501755481739698178"]{Twitter}
-right:
+--
 img: RiniDisc1.jpeg
-left:
+--
 time: 2022-10-15
-author: @a[href: "https://twitter.com/TacoPhox"]{TACO.phox}
-sub: @a[href: "https://yiff.life/@nano"]{nano}
+aref: tacophox
+sref: nano
 source: @a[href: "https://twitter.com/tacophox/status/1581207544391139331"]{Twitter}
-right:
+--
 img: tacophox1.jpeg
-left:
+--
 time: 2022-10-17
-author: @a[href: "https://twitter.com/Zwiebelprinz"]{Zwiebelprinz}
-sub: @a[href: "https://tech.lgbt/@Sterophonick"]{Sterophonick}
+aref: zwiebelprinz
+sref: sterophonick
 source: @a[href: "https://twitter.com/Zwiebelprinz/status/1582078830033874946"]{Twitter}
-right:
+--
 img: zwiebelprinz2.jpeg
-left:
+--
 time: 2022-11-13
-author: @a[href: "https://tech.lgbt/@EeveeEuphoria"]{EeveeEuphoria}
+aref: eeveeeuphoria
 source: @a[href: "https://tech.lgbt/@EeveeEuphoria/109337642942177266"]{tech.lgbt}
-right:
+--
 img: Eevee1.png
-left:
+--
 time: 2021-06-20
-author: @a[href: "https://twitter.com/luavixen"]{lua}
-sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
+aref: luavixen
+sref: jo
 source: @a[href: "https://twitter.com/luavixen/status/1406393573705064450"]{Twitter}
-right:
+--
 img: luavixen1.jpeg
-left:
+--
 time: 2022-07-02
-author: @a[href: "https://twitter.com/realty_trends"]{Realty Trends}
-sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
+aref: realtytrends
+sref: jo
 source: @a[href: "https://twitter.com/realty_trends/status/1543109895641124864"]{Twitter}
-right:
+--
 img: realtytrends1.jpeg
-left:
+--
 time: 2022-02-15
-author: @a[href: "https://twitter.com/lilblucat"]{LAV}
-sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
+aref: lav
+sref: jo
 source: @a[href: "https://twitter.com/lilblucat/status/1493518165199888393"]{Twitter}
-right:
+--
 img: lilblucat1.jpeg
-left:
+--
 time: 2022-01-22
-author: @a[href: "https://twitter.com/lynasdf"]{lyn}
-sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
+aref: lynasdf
+sref: jo
 source: @a[href: "https://twitter.com/lynasdf/status/1485015096321581061"]{Twitter}
-right:
+--
 img: lynasdf1.png
-left:
+--
 time: 2022-01-06
-author: @a[href: "https://twitter.com/cathodegaytube"]{Cathodegaytube}
-sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
+aref: cathodegaytube
+sref: jo
 source: @a[href: "https://twitter.com/cathodegaytube/status/1478904920648552450"]{Twitter}
-right:
+--
 img: cathodegaytube6.png
-left:
+--
 time: 2021-11-10
-author: @a[href: "https://twitter.com/fr_brennan"]{Frederick Brennan}
-sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
+aref: frederickbrennan
+sref: jo
 source: @a[href: "https://twitter.com/fr_brennan/status/1458291801694035971"]{Twitter}
-right:
+--
 img: FrederickBrennan1.jpeg
-left:
+--
 time: 2021-12-01
-author: @a[href: "https://twitter.com/ratgroundpear"]{Ground Pear}
-sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
+aref: groundpear
+sref: jo
 source: @a[href: "https://twitter.com/ratgroundpear/status/1466060015710523394"]{Twitter}
-right:
+--
 img: ratgroundpear1.jpeg
-left:
+--
 time: 2021-09-27
-author: @a[href: "https://twitter.com/Thinkertron2000"]{Isabelle}
-sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
+aref: isabelle
+sref: jo
 source: @a[href: "https://twitter.com/Thinkertron2000/status/1442266299309101068"]{Twitter}
-right:
+--
 img: thinkertron2000_1.jpeg
-left:
+--
 time: 2020-06-10
-author: @a[href: "https://twitter.com/creature_sp"]{Spade}
-sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
+aref: spade
+sref: jo
 source: @a[href: "https://twitter.com/creature_sp/status/1270730183771860994"]{Twitter}
-right:
+--
 @video[src: "https://efimero.github.io/xenia-images/spade1.mp4" autoplay: #t loop: #t]
-left:
+--
 time: 2021-11-21
-author: @a[href: "https://twitter.com/cathodegaytube"]{Cathodegaytube}
-sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
+aref: cathodegaytube
+sref: jo
 source: @a[href: "https://twitter.com/cathodegaytube/status/1462314706765434883"]{Twitter}
-right:
+--
 img: cathodegaytube7.png
-left:
+--
 time: 2022-09-18
-author: @a[href: "https://twitter.com/cathodegaytube"]{Cathodegaytube}
-sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
+aref: cathodegaytube
+sref: jo
 source: @a[href: "https://twitter.com/cathodegaytube/status/1571543245439799296"]{Twitter}
-right:
+--
 img: cathodegaytube8.png
 img: cathodegaytube9.jpeg
-left:
+--
 time: 2022-12-19
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
-sub: @a[href: "https://mstdn.social/@ifixcoinops"]{Dan}
+aref: rinidisc
+sref: danfox
 source: @a[href: "https://meow.social/@rinidisc/109537437306131897"]{meow.social}
-right:
+--
 img: RiniDisc2.png
 img: RiniDisc3.png
-left:
+--
 time: 2022-12-17
-author: @a[href: "https://plush.city/@tsunderdog"]{Tsunderdog}
+aref: tsunderdog
 source: @a[href: "https://plush.city/@tsunderdog/109530055614492959"]{plush.city}
-right:
+--
 img: tsunderdog1.png
-left:
+--
 time: 2022-12-21
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/109548817592975903"]{meow.social}
-right:
+--
 img: RiniDisc4.png
-left:
+--
 time: 2022-12-25
-author: @a[href: "https://twitter.com/TacoPhox"]{TACO.phox}
+aref: tacophox
 source: @a[href: "https://meow.social/@tacophox/109576216706114904"]{meow.social}
-right:
+--
 img: tacophox2.png
-left:
+--
 time: 2022-11-18
-author: @a[href: "https://snowdin.town/users/tosia"]{Tosia}
+aref: tosia
 source: @a[href: "https://snowdin.town/objects/2c53ac01-8463-42ef-93e0-65b84b888340"]{snowdin.town}
-right:
+--
 img: tosia1.png
 img: tosia2.png
 img: tosia3.png
-left:
+--
 time: 2023-01-02
 author: Anonymous @small{(as per request)}
 sub: @a[href: "https://schelling.pt/@panchromaticity"]{Xeniamorph} and @a[href: "https://social.treehouse.systems/@fox"]{Fox}
 source: @a[href: "https://schelling.pt/@panchromaticity/109618378195775775"]{First sighting}
-right:
+--
 img: unknown1.jpeg
-left:
+--
 time: 2023-01-08
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
-sub: @a[href: "https://equestria.social/@fauli1221"]{Fauli}
+aref: rinidisc
+sref: fauli
 source: @a[href: "https://meow.social/@rinidisc/109650834427826048"]{meow.social}
-right:
+--
 img: RiniDisc5.png
 img: RiniDisc6.png
-left:
+--
 time: 2023-02-01
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/109791952664927854"]{meow.social}
-right:
+--
 img: RiniDisc7.png
 img: RiniDisc8.png
 @br
 img: RiniDisc9.png
 img: RiniDisc10.png
-left:
+--
 time: 2023-02-16
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/109871851030068460"]{meow.social}
-right:
+--
 img: RiniDisc11.png
-left:
+--
 time: 2023-02-20
-author: @a[href: "https://www.tumblr.com/heatherhorns"]{Heatherhorns}
-sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: heatherhorns
+sref: mariken
 source: @a[href: "https://www.tumblr.com/heatherhorns/709806470431178752/xenias-transitionbeen-a-while-since-i-drew-xenia"]{Tumblr}
-right:
+--
 img: heatherhorns1.jpg
-left:
+--
 time: 2022-11-14
-author: @a[href: "https://cohost.org/MewMus"]{Rose}
+aref: mewmus
 source: @a[href: "https://cohost.org/MewMus/post/296505-poor-xenia-seems-sh"]{cohost.org}
 Seems Xenia found something rather flustering whilst using her computer.
-right:
+--
 img: mewmus1.png
-left:
+--
 time: 2023-01-18
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
-sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: rinidisc
+sref: mariken
 source: @a[href: "https://meow.social/@rinidisc/109713069555919700"]{meow.social}
 Xenia hugs her Tux plushy.
-right:
+--
 img: RiniDisc12.png
-left:
+--
 time: 2022-12-26
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
-sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: rinidisc
+sref: mariken
 source: @a[href: "https://meow.social/@rinidisc/109580477577647312"]{meow.social}
 Xenia is being overbearing about her computer opinions!
-right:
+--
 img: RiniDisc13.jpeg
-left:
+--
 time: 2022-02-17
-author: @a[href: "https://www.tumblr.com/lowpolyparrot"]{lowpolyparrot}
-sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: lowpolyparrot
+sref: mariken
 source: @a[href: "https://www.tumblr.com/lowpolyparrot/676450475663572992/yes-im-shipping-linuxs-mascots"]{Tumblr}
 What if Tux and Xenia were humans... and in love!?
-right:
+--
 img: lowpolyparrot1.png
 img: lowpolyparrot2.png
-left:
+--
 time: 2023-01-18
-author: @a[href: "https://www.tumblr.com/gale-draws"]{Gale}
-sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: gale
+sref: mariken
 source: @a[hreaf: "https://www.tumblr.com/gale-draws/706800740931338240/old-rough-sketch-of-xenia-the-linux-fox"]{Tumblr}
-right:
+--
 img: gale-draws1.jpg
-left:
+--
 time: 2023-01-12
-author: @a[href: "https://www.tumblr.com/hazardmech"]{hazardmech}
-sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: hazardmech
+sref: mariken
 source: @a[href: "https://www.tumblr.com/hazardmech/706275828154122240"]{Tumblr}
-right:
+--
 img: hazardmech1.jpg
 img: hazardmech2.jpg
-left:
+--
 time: 2022-12-06
-author: @a[href: "https://www.tumblr.com/kidarachind"]{Miles}
-sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: miles
+sref: mariken
 source: @a[href: "https://www.tumblr.com/kidarachind/702936035133440000/xenia-with-the-xbox-jumpsuit-what-will-she"]{Tumblr}
-right:
+--
 img: kidarachnid1.jpg
-left:
+--
 time: 2022-12-02
-author: @a[href: "https://www.tumblr.com/sockhungryclutz"]{SockHungryClutz}
-sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: sockhungryklutz
+sref: mariken
 source: @a[href: "https://www.tumblr.com/sockhungryclutz/702576489205514240/xenia-the-trans-anthro-almost-mascot-of-linux"]{Tumblr}
-right:
+--
 img: SockHungryClutz1.jpg
-left:
+--
 time: 2022-12-03
-author: @a[href: "https://twitter.com/marikeDrawinge"]{Mariken}
+aref: mariken
 source: @a[href: "https://twitter.com/marikeDrawinge/status/1599118852130209793"]{Twitter}
-right:
+--
 img: marikedrawinge1.jpeg
-left:
+--
 time: 2022-12-03
-author: @a[href: "https://twitter.com/cathodegaytube"]{Cathodegaytube}
-sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: cathodegaytube
+sref: mariken
 source: @a[href: "https://twitter.com/cathodegaytube/status/1598985626065711105"]{Twitter}
-right:
+--
 img: cathodegaytube10.jpeg
-left:
+--
 time: 2022-12-29
-author: @a[href: "https://meow.social/@voltbun"]{VoltBun}
-sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: voltbun
+sref: mariken
 source: @a[href: "https://meow.social/@voltbun/109600348286574222"]{meow.social}
-right:
+--
 img: voltbun1.png
-left:
+--
 time: 2022-07-20
-author: @a[href: "https://twitter.com/scaliebur"]{Scaliebur}
-sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: scaliebur
+sref: mariken
 source: @a[href: "https://twitter.com/scaliebur/status/1549960623248769025"]{Twitter}
-right:
+--
 img: scaliebur1.png
-left:
+--
 time: 2023-02-19
-author: @a[href: "https://www.tumblr.com/marikedrawinge"]{Mariken}
+aref: mariken
 source: @a[href: "https://www.tumblr.com/marikedrawinge/709727391846662144/xenia-the-linux-fox-2023-i-dont-know-if-she-uses"]{Tumblr}
 Of course Xenia uses vim!
-right:
+--
 img: marikedrawinge2.jpg
-left:
+--
 time: 2023-02-05
-author: @a[href: "https://pounced-on.me/@coelacanthus"]{Coel}
+aref: coel
 source: @a[href: "https://pounced-on.me/@coelacanthus/109810928923515834"]{pounced-on.me}
-right:
+--
 img: coelacanthus1.png
-left:
+--
 time: 2023-03-01
-author: @a[href: "https://voidwood.online/@tombofnull"]{Null}
+aref: tombofnull
 source: @a[href: "https://www.tombofnull.art/gallery/archive/2023/xenia.html"]{tombofnull.art}
-right:
+--
 img: tombofnull1.png
 img: tombofnull2.png
-left:
+--
 time: 2023-02-07
-author: @a[href: "https://tech.lgbt/@EeveeEuphoria"]{EeveeEuphoria}
+aref: eeveeeuphoria
 source: @a[href: "https://yiff.life/@EeveeEuphoria/109824916897468448"]{yiff.life}
 A @a[href: "https://skunks.gay/download/Xenia-the-Fox-v2.wsz"]{skin} for @a[href: "https://webamp.org/"]{webamp} and winamp 2.9!
-right:
+--
 img: Eevee2.png
 img: Eevee3.png
-left:
+--
 time: 2023-01-24
-author: @a[href: "https://dragon.style/@xinjinmeng"]{Xīn Jīn Měng}
-sub: @a[href: "https://social.treehouse.systems/@fox"]{Fox}
+aref: xinjinmeng
+sref: fox
 source: @a[href: "https://dragon.style/@xinjinmeng/109742491044943466"]{dragon.style}
-right:
+--
 img: xinjinmeng1.png
-left:
+--
 time: 2023-03-15
-author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
+aref: neotheta
 source: @a[href: "https://toot.finfur.net/@Neotheta/110028004485763728"]{finfur.net}
-right:
+--
 img: neotheta1.png
-left:
+--
 time: 2023-04-09
-author: @a[href: "https://meow.social/@goaty"]{Goaty}
+aref: goaty
 source: @a[href: "https://meow.social/@goaty/110168867182718074"]{meow.social}
-right:
+--
 img: goaty1.png
-left:
+--
 time: 2023-04-18
-author: @a[href: "https://nitecrew.rip/@extinct"]{Extinct}
-sub: @a[href: "https://rheinhessen.social/@dmowitz"]{Daniel}
+aref: extinct
+sref: dmowitz
 source: @a[href: "https://chitter.xyz/@dmowitz@rheinhessen.social/110220687798558764"]{rheinhessen.social cached on chitter.xyz}
 Commissioned work.@br
 The "Linux" lettering is by @a[href: "https://ericson.net/"]{Matthew Ericson}
 license: Both are licensed under CC BY-NC-SA 4.0.@br
-right:
+--
 img: extinct1.png
 img: extinct3.png
 @br
 img: extinct2.png
-left:
+--
 time: 2023-04-26
-author: @a[href: "https://queer.af/@mary"]{Mary}
+aref: mary
 source: @a[href: "https://queer.af/@mary/110267191610372952"]{queer.af}
-right:
+--
 img: mary1.jpeg
-left:
+--
 time: 2023-05-01
-author: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: mariken
 source: @a[href: "https://timetheft.social/@mutanthunt/110290824674509838"]{timetheft.social}
-right:
+--
 img: mariken1.png
-left:
+--
 time: 2023-05-04
-author: @a[href: "https://yiff.life/@CherryPixelBun"]{Krische}
+aref: cherrypixelbun
 source: @a[href: "https://yiff.life/@CherryPixelBun/110310892662168516"]{yiff.life}
-right:
+--
 img: krische1.png
-left:
+--
 time: 2023-05-08
-author: @a[href: "https://wetdry.world/@ioletsgo"]{Ivory}
+aref: ivory
 source: @a[href: "https://wetdry.world/@ioletsgo/110331783603807495"]{wetdry.world}
-right:
+--
 img: ivory1.png
-left:
+--
 time: 2023-05-11
-author: @a[href: "https://meow.social/@voltbun"]{VoltBun}
-sub: @a[href: "https://social.pyrox.dev/pyrox"]{Pyrox}
+aref: voltbun
+sref: pyrox
 source: @a[href: "https://meow.social/@voltbun/110351682623185849"]{meow.social}
-right:
+--
 img: voltbun2.png
 img: voltbun3.png
-left:
+--
 time: 2023-05-12
-author: @a[href: "https://twitter.com/Steevn_man"]{Stevemc32}
+aref: stevemc32
 source: @a[href: "https://twitter.com/Steevn_man/status/1656965540110376960"]{Twitter}
 Inspired by the album cover of a collection of Spanish republican songs from the Spanish civil war
-right:
+--
 img: stevemc32-1.png
-left:
+--
 time: 2023-05-15
-author: @a[href: "https://yiff.life/@koko"]{Koko}
+aref: ko
 source: @a[href: "https://yiff.life/@koko/110369383358466705"]{yiff.life}
-right:
+--
 img: koko1.png
-left:
+--
 time: 2023-05-15
-author: @a[href: "https://meow.social/@blubebbie"]{blubebbie}
+aref: blubebbie
 source: @a[href: "https://meow.social/@blubebbie/110371252695242560"]{meow.social}
 Now with bonus Kiki, Tux and Konqi!
-right:
+--
 img: blubebbie1.png
 img: blubebbie2.png
 @br
 img: blubebbie3.png
 img: blubebbie4.png
-left:
+--
 time: 2023-05-28
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/110448203081699250"]{meow.social}
-right:
+--
 img: RiniDisc14.png
-left:
+--
 time: 2023-06-10
-author: @a[href: "https://framapiaf.org/@davidrevoy"]{David Revoy}
+aref: davidrevoy
 source: @a[href: "https://framapiaf.org/@davidrevoy/110519900449848982"]{framapiaf.org}
-right:
+--
 img: davidrevoy1.jpg
 img: davidrevoy2.jpg
 @br
 img: davidrevoy3.jpeg
-left:
+--
 time: 2023-05-21
-author: @a[href: "https://chaos.social/@nek0"]{nek0}
+aref: nek0
 source: @a[href: "https://chaos.social/@nek0/110405499975161863"]{chaos.social}
-right:
+--
 img: nek0-1.png
-left:
+--
 time: 2023-06-13
-author: @a[href: "https://vt.social/@ExpiredPopsicle"]{Kiri}
-sub: @a[href: "https://chitter.xyz/@TudbuT@tech.lgbt"]{TudbuT}
+aref: kiri
+sref: tudbut
 source: @a[href: "https://vt.social/@ExpiredPopsicle/110535376184347488"]{vt.social}
-right:
+--
 img: kiri1.png
-left:
+--
 time: 2023-06-23
-author: @a[href: "https://freja.zone/@freja"]{Freja (bunny)}
+aref: freja
 source: @a[href: "https://freja.zone/@freja/110591051082235494"]{freja.zone}
-right:
+--
 img: freja1.jpeg
-left:
+--
 time: 2023-06-29
-author: @a[href: "https://chitter.xyz/@alisonkit@mastodon.art"]{Alison Kit}
+aref: alisonkit
 source: @a[href: "https://www.tumblr.com/alisonkit/721484467600048128/xenia"]{Tumblr}
 source: @a[href: "https://mastodon.art/@alisonkit/110640279833200891"]{mastodon.art}
-right:
+--
 img: alisonkit1.jpg
-left:
+--
 time: 2023-07-06
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/110669053281279795"]{meow.social}
-right:
+--
 img: RiniDisc15.png
-left:
+--
 time: 2023-07-26
-author: @a[href: "https://mstdn.games/@VirtualRook"]{VirtualRook}
-sub: @a[href: "https://chitter.xyz/@ShadowJonathan@tech.lgbt"]{Jo}
+aref: virtualrook
+sref: jo
 source: @a[href: "https://mstdn.games/@VirtualRook/110782241709703769"]{mstdn.games}
-right:
+--
 img: virtualrook1.jpg
-left:
+--
 time: 2023-07-29
-author: @a[href: "https://peoplemaking.games/@hayny"]{Hayny}
+aref: hayny
 source: @a[href: "https://peoplemaking.games/@hayny/110798570091054252"]{peoplemaking.games}
-right:
+--
 img: hayny1.png
-left:
+--
 time: 2023-08-29
-author: @a[href: "https://www.furaffinity.net/user/wolfspropcreations/"]{Wolf's Prop Creations}
-sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+aref: wolfprops
+sref: mariken
 source: @a[href: "https://www.furaffinity.net/view/53474137/"]{Fur Affinity}
 An actual puppet of Xenia, as @a[href: "https://meow.social/@nickisdoge/110973136617818577"]{commissioned by nickisdoge}!
-right:
+--
 img: wolfspropcreations1.jpg
-left:
+--
 time: 2023-08-29
-author: @a[href: "https://www.tumblr.com/colloidalamber"]{colloidalamber}
-sub: @a[href: "https://furry.engineer/@Interstellar1/"]{Interstellar_1}
+aref: colloidalamber
+sref: interstellar1
 source: @a[href: "https://www.tumblr.com/colloidalamber/726942648827543552/xenia-linux-fox"]{Tumblr}
-right:
+--
 img: colloidalamber1.jpg
-left:
+--
 time: 2023-09-04
-author: @a[href: "https://tech.lgbt/@roxy"]{Roxanne}
-sub: @a[href: "https://chitter.xyz/@ben@lubar.me"]{Ben Lubar}
+aref: roxy
+sref: benlubar
 source: @a[href: "https://tech.lgbt/@roxy/111004104596420961"]{tech.lgbt}
-right:
+--
 img: roxy1.jpg
-left:
+--
 time: 2023-09-04
-author: @a[href: "https://plush.city/@tsunderdog"]{Tsunderdog}
+aref: tsunderdog
 source: @a[href: "https://plush.city/@tsunderdog/111008579122878981"]{plush.city (blue)}
 source: @a[href: "https://plush.city/@tsunderdog/111008582498330479"]{plush.city (pink)}
 source: @a[href: "https://plush.city/@tsunderdog/111008588240579897"]{plush.city (trans)}
-right:
+--
 img: tsunderdog2.png
 img: tsunderdog3.png
 img: tsunderdog4.png
-left:
+--
 time: 2023-09-04
-author: @a[href: "https://dragon.style/@xinjinmeng"]{Xīn Jīn Měng}
+aref: xinjinmeng
 source: @a[href: "https://dragon.style/@xinjinmeng/111008984389660500"]{dragon.style}
-right:
+--
 img: xinjinmeng2.png
-left:
+--
 time: 2023-08-07
-author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
+aref: neotheta
 source: @a[href: "https://toot.finfur.net/@Neotheta/110848259687649111"]{finfur.net}
-right:
+--
 img: neotheta2.png
-left:
+--
 time: 2023-08-07
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/110849344750985991"]{meow.social}
-right:
+--
 img: RiniDisc16.png
-left:
+--
 time: 2023-05-15
 author: Connorduh
-sub: @a[href: "https://toot.site/@katnjiapus"]{katnjiapus}
+sref: katnjiapus
 source: @a[href: "https://toot.site/@katnjiapus/110374658821053121"]{toot.site}
 This work was commissioned, but I couldn't find a proper profile online to attribute the artist. Any information on it appreciated.
-right:
+--
 img: connorduh1.png
-left:
+--
 time: 2023-09-11
-author: @a[href: "https://woof.tech/@naomi_dmoon"]{Naomi d'Moon}
+aref: naomidmoon
 source: @a[href: "https://woof.tech/@naomi_dmoon/111046434416466161"]{woof.tech}
-right:
+--
 img: naomidmoon1.png
 img: naomidmoon2.png
 img: naomidmoon3.png
 @br
 img: naomidmoon4.png
 img: naomidmoon5.png
-left:
+--
 time: 2023-09-12
-author: @a[href: "https://twitter.com/Puapka1"]{Puapka1}
-sub: @a[href: "https://girldick.gay/@ZoeTheArchCatgirl"]{Zoe}
+aref: puapka1
+sref: zoethearchcatgirl
 source: @a[href: "https://twitter.com/Puapka1/status/1701664613576687835"]{Twitter}
 license: CC BY-NC-SA 4.0 
-right:
+--
 img: puapka1-1.jpeg
 img: puapka1-2.jpeg
 img: puapka1-3.png
-left:
+--
 time: 2023-09-16
-author: @a[href: "https://yiff.life/@EeveeEuphoria"]{EeveeEuphoria}
+aref: eeveeeuphoria
 source: @a[href: "https://yiff.life/@EeveeEuphoria/111074395436650291"]{yiff.life}
-right:
+--
 img: Eevee4.png
-left:
+--
 time: 2023-09-16
-author: @a[href: "https://dragon.style/@anthracite"]{Anthracite}
-sub: @a[href: "https://chitter.xyz/@konomikitten@tech.lgbt"]{Konomi}
+aref: anthracite
+sref: konomi
 source: @a[href: "https://dragon.style/@anthracite/111076340708497588"]{dragon.style}
-right:
+--
 img: anthracite1.jpg
-left:
+--
 time: 2023-09-21
-author: @a[href: "https://yiff.life/@creature_sp"]{creature_sp}
+aref: spade
 source: @a[href: "https://yiff.life/@creature_sp/111105028946083113"]{yiff.life}
-right:
+--
 img: creature_sp1.png
-left:
+--
 time: 2023-09-17
-author: @a[href: "https://www.jacknorisk.art/"]{Jack Norisk (Laura Giraud)}
-sub: @a[href: "https://chitter.xyz/@mindraj@translunar.academy"]{mindraj}
+aref: jacknorisk
+sref: mindraj
 This commission work has not been posted publicly by the author.
-right:
+--
 img: JackNorisk1.png
-left:
+--
 time: 2023-10-18
-author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+aref: chimmie
 source: @a[href: "https://catcatnya.com/@gameplayervent/111256947111329208"]{catcatnya.com (dark)}
 source: @a[href: "https://catcatnya.com/@gameplayervent/111262354736648707"]{catcatnya.com (light)}
 source: @a[href: "https://xenia.chimmie.k.vu/#wallpaper"]{xenia.chimmie.k.vu (SVG)}
-right:
+--
 img: chimmie_egg-wallpaper_dark.png
 img: chimmie_egg-wallpaper_light.png
-left:
+--
 time: 2023-10-19
-author: @a[href: "https://twitter.com/BlindSight_Art"]{BlindSight_Art}
+aref: blindsight
 source: @a[href: "https://twitter.com/BlindSight_Art/status/1715122897889399014"]{Twitter}
-right:
+--
 img: BlindSight_Art.png
-left:
+--
 time: 2023-12-03
-author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+aref: chimmie
 source: @a[href: "https://catcatnya.com/@gameplayervent/111516911247252610"]{catcatnya.com}
 source: @a[href: "https://xenia.chimmie.k.vu/#xenia_firefox"]{xenia.chimmie.k.vu (SVG)}
-right:
+--
 img: chimmie_firefox.png
-left:
+--
 time: 2023-12-11
-author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
+aref: neotheta
 source: @a[href: "https://toot.finfur.net/@Neotheta/111562836805927368"]{finfur.net}
 source: @a[href: "https://www.furaffinity.net/view/54764470/"]{furaffinity.net}
-right:
+--
 img: neotheta_666.png
-left:
+--
 time: 2023-01-03
-author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+aref: chimmie
 source: @a[href: "https://catcatnya.com/@gameplayervent/111691462209187033"]{catcatnya.com}
 source: @a[href: "https://xenia.chimmie.k.vu/#xenia_drawing1"]{xenia.chimmie.k.vu (SVG)}
-right:
+--
 img: chimmie_portrait.png
-left:
+--
 time: 2024-01-04
-author: @a[href: "https://dragon.style/@KinkyTurtle"]{KinkyTurtle}
+aref: kinkyturtle
 source: @a[href: "https://dragon.style/@KinkyTurtle/111695134871595592"]{dragon.style}
 source: @a[href: "https://www.furaffinity.net/view/55071401/"]{furaffinity.net}
-right:
+--
 img: KinkyTurtle1.jpg
-left:
+--
 time: 2024-01-07
-author: @a[href: "https://chitter.xyz/@kkzero"]{kkzero}
+aref: kkzero
 source: @a[href: "https://chitter.xyz/@kkzero/111711746352646614"]{chitter.xyz}
-right:
+--
 img: kkzero_klonoa.png
-left:
+--
 time: 2024-01-19
-author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+aref: chimmie
 source: @a[href: "https://catcatnya.com/@gameplayervent/111784520719298209"]{catcatnya.com}
 source: @a[href: "https://xenia.chimmie.k.vu/#xenia_drawing5-1"]{xenia.chimmie.k.vu (SVG)}
-right:
+--
 img: chimmie_fedi-wallpaper.png
-left:
+--
 time: 2024-01-27
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/111828626416516116"]{meow.social}
-right:
+--
 img: RiniDisc_CompLab.png
-left:
+--
 time: 2024-01-31
-author: @a[href: "https://is-a.cat/@madargon"]{madargon}
+aref: madargon
 source: @a[href: "https://is-a.cat/@madargon/111851815407668236"]{is-a.cat}
-right:
+--
 img: madragon_cosplay.png
-left:
+--
 time: 2024-02-05
-author: @a[href: "https://pawb.fun/@DuetSneplynx"]{DuetSneplynx}
+aref: duetsneplynx
 source: @a[href: "https://pawb.fun/@DuetSneplynx/111876696515984932"]{pawb.fun}
-right:
+--
 img: DuetSneplynx_Taur.png
-left:
+--
 time: 2024-02-08
-author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
+aref: neotheta
 source: @a[href: "https://toot.finfur.net/@Neotheta/111896143000694798"]{finfur.net}
 source: @a[href: "https://www.furaffinity.net/view/55465303/"]{furaffinity.net}
-right:
+--
 img: neotheta_sigil.png
-left:
+--
 time: 2024-02-14
-author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+aref: chimmie
 source: @a[href: "https://catcatnya.com/@gameplayervent/111928896068686879"]{catcatnya.com}
 source: @a[href: "https://xenia.chimmie.k.vu/#xenia_thank_you"]{xenia.chimmie.k.vu (SVG)}
-right:
+--
 img: chimmie_valentine.png
-left:
+--
 time: 2024-02-17
-author: @a[href: "https://foxpile.online/@lennox"]{lennox}
+aref: lennox
 source: @a[href: "https://foxpile.online/@lennox/111949178623744636"]{foxpile.online}
-right:
+--
 img: lennox1.png
-left:
+--
 time: 2024-02-23
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/111978506970239369"]{meow.social}
-right:
+--
 img: RiniDisc_Reference.png
-left:
+--
 time: 2024-02-27
-author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+aref: chimmie
 source: @a[href: "https://catcatnya.com/@gameplayervent/112002632568374927"]{catcatnya.com}
 source: @a[href: "https://xenia.chimmie.k.vu/#xenia_skylar4"]{xenia.chimmie.k.vu (SVG)}
-right:
+--
 img: chimmie_sunset.png
-left:
+--
 time: 2024-03-05
-author: @a[href: "https://metapixl.com/squeakypancakes"]{squeakypancakes}
+aref: squeakypancakes
 source: @a[href: "https://metapixl.com/p/squeakypancakes/670622244542348316"]{metapixl.com}
-right:
+--
 img: squeakypancakes1.png
-left:
+--
 time: 2024-03-09
-author: @a[href: "https://wetdry.world/@drakonic"]{drakonic}
+aref: drakonic
 source: @a[href: "https://wetdry.world/@drakonic/112066459888207366"]{wetdry.world}
-right:
+--
 img: drakonic_stickers.png
-left:
+--
 time: 2024-03-20
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/112129420337449442"]{meow.social}
-right:
+--
 img: RiniDisc_Goth.png
-left:
+--
 time: 2024-01-06
-author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/111711281630824983"]{meow.social}
-right:
+--
 img: RiniDisc_infodump.png
-left:
+--
 time: 2023-12-21
-author: @a[href: "https://chitter.xyz/@koko@yiff.life"]{Ko}
+aref: ko
 source: @a[href: "https://yiff.life/@koko/111618932283595363"]{yiff.life}
-right:
+--
 img: Koko_opinions1.png
 img: Koko_opinions2.png
 @br
 img: Koko_opinions3.png
 img: Koko_opinions4.png
-left:
+--
 time: 2024-02-14
-author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+aref: chimmie
 source: @a[href: "https://catcatnya.com/@gameplayervent/111929946075683492"]{catcatnya.com}
 source: @a[href: "https://xenia.chimmie.k.vu/#xenia_drawing6"]{xenia.chimmie.k.vu (SVG)}
-right:
+--
 img: chimmie_shark.png
-left:
+--
 time: 2024-03-19
 author: Unknown
 source: @a[href: "https://wetdry.world/@jessienab/112123633119764212"]{wetdry.world}
 Commission work plushy. Very huggable.
-right:
+--
 img: Xenia_plushy.jpg
