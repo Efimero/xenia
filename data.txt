@@ -761,8 +761,128 @@ This commission work has not been posted publicly by the author.
 right:
 img: JackNorisk1.png
 left:
+time: 2023-10-18
+author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+source: @a[href: "https://catcatnya.com/@gameplayervent/111256947111329208"]{catcatnya.com (dark)}
+source: @a[href: "https://catcatnya.com/@gameplayervent/111262354736648707"]{catcatnya.com (ligh)}
+source: @a[href: "https://xenia.chimmie.k.vu/#wallpaper"]{xenia.chimmie.k.vu (SVG)}
+right:
+img: chimmie_egg-wallpaper_dark.png
+img: chimmie_egg-wallpaper_light.png
+left:
 time: 2023-10-19
 author: @a[href: "https://twitter.com/BlindSight_Art"]{BlindSight_Art}
 source: @a[href: "https://twitter.com/BlindSight_Art/status/1715122897889399014"]{Twitter}
 right:
 img: BlindSight_Art.png
+left:
+time: 2023-12-03
+author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+source: @a[href: "https://catcatnya.com/@gameplayervent/111516911247252610"]{catcatnya.com}
+source: @a[href: "https://xenia.chimmie.k.vu/#xenia_firefox"]{xenia.chimmie.k.vu (SVG)}
+right:
+img: chimmie_firefox.png
+left:
+time: 2023-12-11
+author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
+source: @a[href: "https://toot.finfur.net/@Neotheta/111562836805927368"]{finfur.net}
+source: @a[href: "https://www.furaffinity.net/view/54764470/"]{furaffinity.net}
+right:
+img: neotheta_666.png
+left:
+time: 2023-01-03
+author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+source: @a[href: "https://catcatnya.com/@gameplayervent/111691462209187033"]{catcatnya.com}
+source: @a[href: "https://xenia.chimmie.k.vu/#xenia_drawing1"]{xenia.chimmie.k.vu (SVG)}
+right:
+img: chimmie_portrait.png
+left:
+time: 2024-01-04
+author: @a[href: "https://dragon.style/@KinkyTurtle"]{KinkyTurtle}
+source: @a[href: "https://dragon.style/@KinkyTurtle/111695134871595592"]{dragon.style}
+source: @a[href: "https://www.furaffinity.net/view/55071401/"]{furaffinity.net}
+right:
+img: KinkyTurtle1.jpg
+left:
+time: 2024-01-07
+author: @a[href: "https://chitter.xyz/@kkzero"]{kkzero}
+source: @a[href: "https://chitter.xyz/@kkzero/111711746352646614"]{chitter.xyz}
+right:
+img: kkzero_klonoa.png
+left:
+time: 2024-01-19
+author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+source: @a[href: "https://catcatnya.com/@gameplayervent/111784520719298209"]{catcatnya.com}
+source: @a[href: "https://xenia.chimmie.k.vu/#xenia_drawing5-1"]{xenia.chimmie.k.vu (SVG)}
+right:
+img: chimmie_fedi-wallpaper.png
+left:
+time: 2024-01-27
+author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+source: @a[href: "https://meow.social/@rinidisc/111828626416516116"]{meow.social}
+right:
+img: RiniDisc_CompLab.png
+left:
+time: 2024-01-31
+author: @a[href: "https://is-a.cat/@madargon"]{madargon}
+source: @a[href: "https://is-a.cat/@madargon/111851815407668236"]{is-a.cat}
+right:
+img: madragon_cosplay.png
+left:
+time: 2024-02-05
+author: @a[href: "https://pawb.fun/@DuetSneplynx"]{DuetSneplynx}
+source: @a[href: "https://pawb.fun/@DuetSneplynx/111876696515984932"]{pawb.fun}
+right:
+img: DuetSneplynx_Taur.png
+left:
+time: 2024-02-08
+author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
+source: @a[href: "https://toot.finfur.net/@Neotheta/111896143000694798"]{finfur.net}
+source: @a[href: "https://www.furaffinity.net/view/55465303/"]{furaffinity.net}
+right:
+img: neotheta_sigil.png
+left:
+time: 2024-02-14
+author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+source: @a[href: "https://catcatnya.com/@gameplayervent/111928896068686879"]{catcatnya.com}
+source: @a[href: "https://xenia.chimmie.k.vu/#xenia_thank_you"]{xenia.chimmie.k.vu (SVG)}
+right:
+img: chimmie_valentine.png
+left:
+time: 2024-02-17
+author: @a[href: "https://foxpile.online/@lennox"]{lennox}
+source: @a[href: "https://foxpile.online/@lennox/111949178623744636"]{foxpile.online}
+right:
+img: lennox1.png
+left:
+time: 2024-02-23
+author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+source: @a[href: "https://meow.social/@rinidisc/111978506970239369"]{meow.social}
+right:
+img: RiniDisc_Reference.png
+left:
+time: 2024-02-27
+author: @a[href: "https://catcatnya.com/@gameplayervent"]{Chimmie}
+source: @a[href: "https://catcatnya.com/@gameplayervent/112002632568374927"]{catcatnya.com}
+source: @a[href: "https://xenia.chimmie.k.vu/#xenia_skylar4"]{xenia.chimmie.k.vu (SVG)}
+right:
+img: chimmie_sunset.png
+left:
+time: 2024-03-05
+author: @a[href: "https://metapixl.com/squeakypancakes"]{squeakypancakes}
+source: @a[href: "https://metapixl.com/p/squeakypancakes/670622244542348316"]{metapixl.com}
+right:
+img: squeakypancakes1.png
+left:
+time: 2024-03-09
+author: @a[href: "https://wetdry.world/@drakonic"]{drakonic}
+source: @a[href: "https://wetdry.world/@drakonic/112066459888207366"]{wetdry.world}
+right:
+img: drakonic_stickers.png
+left:
+time: 2024-03-20
+author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+source: @a[href: "https://meow.social/@rinidisc/112129420337449442"]{meow.social}
+right:
+img: RiniDisc_Goth.png
+
