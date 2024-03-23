@@ -1,7 +1,7 @@
 --
 time: 2020-05-26
 @time[datetime: "2021-04-25" title: "2021-04-25"]{(Snouts Online has been gone for a bit, so that profile is no longer available)}@br
-In order, @a[href: "https://mastodon.art/@firstprogenitor"]{FirstProgenitor}, @a[href: "https://plush.city/@heatherhorns"]{HeatherHorns}, and Marbles made these versions, later made into @comment{@a[href: "https://masto.werefox.dev/@shadow8t4/104389870380303106"]{stickers} by @a[href: "https://masto.werefox.dev/@shadow8t4/104389870380303106"]{Shadow8t4}}stickers by @a[href: "https://yiff.life/@werefox"]{Alice}@comment{@time[datetime: "2022-07-28" title: "2022-07-28"]{(It seems werefox.dev is also gone now)}}.
+In order, @a[href: "https://mastodon.art/@firstprogenitor"]{FirstProgenitor}, @a[href: "https://plush.city/@heatherhorns"]{HeatherHorns}, and Marbles made these versions, later made into @comment{@a[href: "https://masto.werefox.dev/@shadow8t4/104389870380303106"]{stickers} by @a[href: "https://masto.werefox.dev/@shadow8t4/104389870380303106"]{Shadow8t4}}stickers by @a[href: "https://bark.lgbt/@alicew"]{Alice}@comment{@time[datetime: "2022-07-28" title: "2022-07-28"]{(It seems werefox.dev is also gone now) fixed as of @time[datetime: "2024-03-23" title: "2024-03-23"]{2024-03-23}}}.
 --
 img: firstprogenitor1.png
 img: heyheather1.png
