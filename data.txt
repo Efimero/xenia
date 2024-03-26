@@ -923,3 +923,9 @@ aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/112129420337449442"]{meow.social}
 --
 img: RiniDisc_Goth.png
+--
+time: 2024-03-25
+aref: Anna
+source: @a[href: "https://mastodon.art/@Anna/112158537770353454"]{mastodon.art}
+--
+img: anna_roulette.mp4
