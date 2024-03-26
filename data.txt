@@ -13,6 +13,13 @@ Additionally, here's a version of Cathodegaytube's original slightly edited to f
 --
 img: cathodegaytube-splash.png
 --
+time: 2020-06-10
+aref: spade
+sref: jo
+source: @a[href: "https://twitter.com/creature_sp/status/1270730183771860994"]{Twitter}
+--
+@video[src: "https://efimero.github.io/xenia-images/spade1.mp4" autoplay: #t loop: #t]
+--
 time: 2020-07-04
 The following are a series of icons that try to give her an application as a logotype, instead of just the more figurative illustrations.@br
 aref: tori
@@ -29,6 +36,13 @@ sref: sqxflann
 --
 img: jd-laclede1.webp
 img: bottles221-1.jpg
+--
+time: 2020-10-22
+aref: praetorinfinite
+sref: zutroy
+source: @a[href: "https://www.reddit.com/r/furry/comments/jfz8di/oc_xenia_the_forgotten_linux_mascot/"]{Reddit}, @a[href: "https://www.deviantart.com/praetorultra/art/Xenia-858827241"]{DeviantArt}
+--
+img: praetorinfinite1.jpg
 --
 time: 2020-11-21
 aref: cathodegaytube
@@ -62,7 +76,7 @@ source: @a[href: "https://archive.is/rTDpr"]{cybre.space}
 --
 img: apt1.png
 --
-@br
+time: 2021-05-05
 aref: danfox
 sub: @a[href: "https://mastodon.online/@Wafer"]{Wafer} @time[datetime: "2022-07-28" title: "2022-07-28"]{(This piece was originally accidentally misatributted to Wafer)}
 source: @a[href: "https://chitter.xyz/@danfoxx/106179176796834932"]{chitter.xyz}
@@ -83,6 +97,7 @@ Lua commissioned Cricket to make this cute art of Xenia at work.
 --
 img: cricket1.jpeg
 --
+time: 2021-05-14
 aref: nerithekitten
 sref: luavixen
 source: @a[href: "https://twitter.com/luavixen/status/1393253170680238084"]{Twitter}
@@ -115,12 +130,12 @@ source: @a[href: "https://www.furaffinity.net/view/36600939/"]{Fur Affinity}
 --
 img: lizzieliz1.jpg
 --
-aref: praetorinfinite
-sref: zutroy
-source: @a[href: "https://www.reddit.com/r/furry/comments/jfz8di/oc_xenia_the_forgotten_linux_mascot/"]{Reddit}
-Made for @a[href: "https://www.deviantart.com/praetorultra/art/Xenia-858827241"]{DeviantArt}
+time: 2021-06-20
+aref: luavixen
+sref: jo
+source: @a[href: "https://twitter.com/luavixen/status/1406393573705064450"]{Twitter}
 --
-img: praetorinfinite1.jpg
+img: luavixen1.jpeg
 --
 time: 2021-07-15
 aref: cathodegaytube
@@ -136,17 +151,53 @@ Commission work.
 --
 img: flyinghyena2.jpeg
 --
+time: 2021-07-24
+aref: qmii
+sref: mocchapi
+source: @a[href: "https://twitter.com/QmiiProductions/status/1418823824066236417"]{Twitter}
+Commission work for foorjee.
+--
+img: Q-mii1.png
+--
 time: 2021-08-12
 aref: lamna
 source: @a[href: "https://twitter.com/artlamna/status/1425907483940380684"]{Twitter}
 --
 img: lamna1.jpeg
 --
+time: 2021-09-09
+aref: usbfig
+sref: mocchapi
+source: @a[href: "https://twitter.com/USBFIG/status/1435790274886787072"]{Twitter}
+--
+img: USBFIG1.jpeg
+--
+time: 2021-09-27
+aref: isabelle
+sref: jo
+source: @a[href: "https://twitter.com/Thinkertron2000/status/1442266299309101068"]{Twitter}
+--
+img: thinkertron2000_1.jpeg
+--
+time: 2021-11-10
+aref: frederickbrennan
+sref: jo
+source: @a[href: "https://twitter.com/fr_brennan/status/1458291801694035971"]{Twitter}
+--
+img: FrederickBrennan1.jpeg
+--
 time: 2021-11-21
 aref: cathodegaytube
 source: @a[href: "https://twitter.com/cathodegaytube/status/1462314685634543618"]{Twitter}
 --
 img: cathodegaytube5.jpeg
+--
+time: 2021-11-21
+aref: cathodegaytube
+sref: jo
+source: @a[href: "https://twitter.com/cathodegaytube/status/1462314706765434883"]{Twitter}
+--
+img: cathodegaytube7.png
 --
 time: 2021-11-26
 aref: zwiebelprinz
@@ -156,6 +207,28 @@ To be fair, nobody is born with programming knowledge!
 --
 img: zwiebelprinz1.jpeg
 --
+time: 2021-12-01
+aref: groundpear
+sref: jo
+source: @a[href: "https://twitter.com/ratgroundpear/status/1466060015710523394"]{Twitter}
+--
+img: ratgroundpear1.jpeg
+--
+time: 2021-12-05
+author: Massimo Gismondi
+sref: digitalfox
+source: @a[href: "https://online.supertuxkart.net/addons.php?type=karts&name=xenia"]{Addon download on supertuxcart.net}
+license: Creative Commons BY SA 4.0
+--
+@iframe[width: 560 height: 315 src: "https://www.youtube.com/embed/LlFVNH9xP8s" title: "YouTube video player" frameborder: "0" allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen]
+--
+time: 2022-01-06
+aref: cathodegaytube
+sref: jo
+source: @a[href: "https://twitter.com/cathodegaytube/status/1478904920648552450"]{Twitter}
+--
+img: cathodegaytube6.png
+--
 time: 2022-01-10
 aref: toisanemoifs
 sref: fellbeast
@@ -163,12 +236,42 @@ source: @a[href: "https://www.deviantart.com/toisanemoifs/art/Xenia-903364698"]{
 --
 img: xenia_by_toisanemoifs1.jpg
 --
+time: 2022-01-22
+aref: lynasdf
+sref: jo
+source: @a[href: "https://twitter.com/lynasdf/status/1485015096321581061"]{Twitter}
+--
+img: lynasdf1.png
+--
 time: 2022-02-05
 aref: kay
 Xenia and "Libbie the Cyber Orix".
 --
 img: kay1.jpeg
 img: kay2.png
+--
+time: 2022-02-15
+aref: lav
+sref: jo
+source: @a[href: "https://twitter.com/lilblucat/status/1493518165199888393"]{Twitter}
+--
+img: lilblucat1.jpeg
+--
+time: 2022-02-17
+aref: lowpolyparrot
+sref: mariken
+source: @a[href: "https://www.tumblr.com/lowpolyparrot/676450475663572992/yes-im-shipping-linuxs-mascots"]{Tumblr}
+What if Tux and Xenia were humans... and in love!?
+--
+img: lowpolyparrot1.png
+img: lowpolyparrot2.png
+--
+time: 2022-03-10
+aref: rinidisc
+sref: suchipi
+source: @a[href: "https://twitter.com/RiniDisc/status/1501755481739698178"]{Twitter}
+--
+img: RiniDisc1.jpeg
 --
 time: 2022-04-25
 aref: mariken
@@ -192,35 +295,27 @@ Check out this @a[href: "https://github.com/Commenter25/userstuffs#-xenia-as-lin
 img: zaeroses2.png
 img: zaeroses1.svg
 --
-time: 2021-12-05
-author: Massimo Gismondi
-sref: digitalfox
-source: @a[href: "https://online.supertuxkart.net/addons.php?type=karts&name=xenia"]{Addon download on supertuxcart.net}
-license: Creative Commons BY SA 4.0
+time: 2022-07-02
+aref: realtytrends
+sref: jo
+source: @a[href: "https://twitter.com/realty_trends/status/1543109895641124864"]{Twitter}
 --
-@iframe[width: 560 height: 315 src: "https://www.youtube.com/embed/LlFVNH9xP8s" title: "YouTube video player" frameborder: "0" allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen]
+img: realtytrends1.jpeg
 --
-time: 2021-09-09
-aref: usbfig
-sref: mocchapi
-source: @a[href: "https://twitter.com/USBFIG/status/1435790274886787072"]{Twitter}
+time: 2022-07-20
+aref: scaliebur
+sref: mariken
+source: @a[href: "https://twitter.com/scaliebur/status/1549960623248769025"]{Twitter}
 --
-img: USBFIG1.jpeg
+img: scaliebur1.png
 --
-time: 2021-07-24
-aref: qmii
-sref: mocchapi
-source: @a[href: "https://twitter.com/QmiiProductions/status/1418823824066236417"]{Twitter}
-Commission work for foorjee.
+time: 2022-09-18
+aref: cathodegaytube
+sref: jo
+source: @a[href: "https://twitter.com/cathodegaytube/status/1571543245439799296"]{Twitter}
 --
-img: Q-mii1.png
---
-time: 2022-03-10
-aref: rinidisc
-sref: suchipi
-source: @a[href: "https://twitter.com/RiniDisc/status/1501755481739698178"]{Twitter}
---
-img: RiniDisc1.jpeg
+img: cathodegaytube8.png
+img: cathodegaytube9.jpeg
 --
 time: 2022-10-15
 aref: tacophox
@@ -242,109 +337,12 @@ source: @a[href: "https://tech.lgbt/@EeveeEuphoria/109337642942177266"]{tech.lgb
 --
 img: Eevee1.png
 --
-time: 2021-06-20
-aref: luavixen
-sref: jo
-source: @a[href: "https://twitter.com/luavixen/status/1406393573705064450"]{Twitter}
+time: 2022-11-14
+aref: mewmus
+source: @a[href: "https://cohost.org/MewMus/post/296505-poor-xenia-seems-sh"]{cohost.org}
+Seems Xenia found something rather flustering whilst using her computer.
 --
-img: luavixen1.jpeg
---
-time: 2022-07-02
-aref: realtytrends
-sref: jo
-source: @a[href: "https://twitter.com/realty_trends/status/1543109895641124864"]{Twitter}
---
-img: realtytrends1.jpeg
---
-time: 2022-02-15
-aref: lav
-sref: jo
-source: @a[href: "https://twitter.com/lilblucat/status/1493518165199888393"]{Twitter}
---
-img: lilblucat1.jpeg
---
-time: 2022-01-22
-aref: lynasdf
-sref: jo
-source: @a[href: "https://twitter.com/lynasdf/status/1485015096321581061"]{Twitter}
---
-img: lynasdf1.png
---
-time: 2022-01-06
-aref: cathodegaytube
-sref: jo
-source: @a[href: "https://twitter.com/cathodegaytube/status/1478904920648552450"]{Twitter}
---
-img: cathodegaytube6.png
---
-time: 2021-11-10
-aref: frederickbrennan
-sref: jo
-source: @a[href: "https://twitter.com/fr_brennan/status/1458291801694035971"]{Twitter}
---
-img: FrederickBrennan1.jpeg
---
-time: 2021-12-01
-aref: groundpear
-sref: jo
-source: @a[href: "https://twitter.com/ratgroundpear/status/1466060015710523394"]{Twitter}
---
-img: ratgroundpear1.jpeg
---
-time: 2021-09-27
-aref: isabelle
-sref: jo
-source: @a[href: "https://twitter.com/Thinkertron2000/status/1442266299309101068"]{Twitter}
---
-img: thinkertron2000_1.jpeg
---
-time: 2020-06-10
-aref: spade
-sref: jo
-source: @a[href: "https://twitter.com/creature_sp/status/1270730183771860994"]{Twitter}
---
-@video[src: "https://efimero.github.io/xenia-images/spade1.mp4" autoplay: #t loop: #t]
---
-time: 2021-11-21
-aref: cathodegaytube
-sref: jo
-source: @a[href: "https://twitter.com/cathodegaytube/status/1462314706765434883"]{Twitter}
---
-img: cathodegaytube7.png
---
-time: 2022-09-18
-aref: cathodegaytube
-sref: jo
-source: @a[href: "https://twitter.com/cathodegaytube/status/1571543245439799296"]{Twitter}
---
-img: cathodegaytube8.png
-img: cathodegaytube9.jpeg
---
-time: 2022-12-19
-aref: rinidisc
-sref: danfox
-source: @a[href: "https://meow.social/@rinidisc/109537437306131897"]{meow.social}
---
-img: RiniDisc2.png
-img: RiniDisc3.png
---
-time: 2022-12-17
-aref: tsunderdog
-source: @a[href: "https://plush.city/@tsunderdog/109530055614492959"]{plush.city}
---
-img: tsunderdog1.png
---
-time: 2022-12-21
-aref: rinidisc
-source: @a[href: "https://meow.social/@rinidisc/109548817592975903"]{meow.social}
---
-img: RiniDisc4.png
---
-time: 2022-12-25
-aref: tacophox
-source: @a[href: "https://meow.social/@tacophox/109576216706114904"]{meow.social}
---
-img: tacophox2.png
+img: mewmus1.png
 --
 time: 2022-11-18
 aref: tosia
@@ -353,98 +351,6 @@ source: @a[href: "https://snowdin.town/objects/2c53ac01-8463-42ef-93e0-65b84b888
 img: tosia1.png
 img: tosia2.png
 img: tosia3.png
---
-time: 2023-01-02
-author: Anonymous @small{(as per request)}
-sub: @a[href: "https://schelling.pt/@panchromaticity"]{Xeniamorph} and @a[href: "https://social.treehouse.systems/@fox"]{Fox}
-source: @a[href: "https://schelling.pt/@panchromaticity/109618378195775775"]{First sighting}
---
-img: unknown1.jpeg
---
-time: 2023-01-08
-aref: rinidisc
-sref: fauli
-source: @a[href: "https://meow.social/@rinidisc/109650834427826048"]{meow.social}
---
-img: RiniDisc5.png
-img: RiniDisc6.png
---
-time: 2023-02-01
-aref: rinidisc
-source: @a[href: "https://meow.social/@rinidisc/109791952664927854"]{meow.social}
---
-img: RiniDisc7.png
-img: RiniDisc8.png
-@br
-img: RiniDisc9.png
-img: RiniDisc10.png
---
-time: 2023-02-16
-aref: rinidisc
-source: @a[href: "https://meow.social/@rinidisc/109871851030068460"]{meow.social}
---
-img: RiniDisc11.png
---
-time: 2023-02-20
-aref: heatherhorns
-sref: mariken
-source: @a[href: "https://www.tumblr.com/heatherhorns/709806470431178752/xenias-transitionbeen-a-while-since-i-drew-xenia"]{Tumblr}
---
-img: heatherhorns1.jpg
---
-time: 2022-11-14
-aref: mewmus
-source: @a[href: "https://cohost.org/MewMus/post/296505-poor-xenia-seems-sh"]{cohost.org}
-Seems Xenia found something rather flustering whilst using her computer.
---
-img: mewmus1.png
---
-time: 2023-01-18
-aref: rinidisc
-sref: mariken
-source: @a[href: "https://meow.social/@rinidisc/109713069555919700"]{meow.social}
-Xenia hugs her Tux plushy.
---
-img: RiniDisc12.png
---
-time: 2022-12-26
-aref: rinidisc
-sref: mariken
-source: @a[href: "https://meow.social/@rinidisc/109580477577647312"]{meow.social}
-Xenia is being overbearing about her computer opinions!
---
-img: RiniDisc13.jpeg
---
-time: 2022-02-17
-aref: lowpolyparrot
-sref: mariken
-source: @a[href: "https://www.tumblr.com/lowpolyparrot/676450475663572992/yes-im-shipping-linuxs-mascots"]{Tumblr}
-What if Tux and Xenia were humans... and in love!?
---
-img: lowpolyparrot1.png
-img: lowpolyparrot2.png
---
-time: 2023-01-18
-aref: gale
-sref: mariken
-source: @a[hreaf: "https://www.tumblr.com/gale-draws/706800740931338240/old-rough-sketch-of-xenia-the-linux-fox"]{Tumblr}
---
-img: gale-draws1.jpg
---
-time: 2023-01-12
-aref: hazardmech
-sref: mariken
-source: @a[href: "https://www.tumblr.com/hazardmech/706275828154122240"]{Tumblr}
---
-img: hazardmech1.jpg
-img: hazardmech2.jpg
---
-time: 2022-12-06
-aref: miles
-sref: mariken
-source: @a[href: "https://www.tumblr.com/kidarachind/702936035133440000/xenia-with-the-xbox-jumpsuit-what-will-she"]{Tumblr}
---
-img: kidarachnid1.jpg
 --
 time: 2022-12-02
 aref: sockhungryklutz
@@ -466,6 +372,47 @@ source: @a[href: "https://twitter.com/cathodegaytube/status/1598985626065711105"
 --
 img: cathodegaytube10.jpeg
 --
+time: 2022-12-06
+aref: miles
+sref: mariken
+source: @a[href: "https://www.tumblr.com/kidarachind/702936035133440000/xenia-with-the-xbox-jumpsuit-what-will-she"]{Tumblr}
+--
+img: kidarachnid1.jpg
+--
+time: 2022-12-17
+aref: tsunderdog
+source: @a[href: "https://plush.city/@tsunderdog/109530055614492959"]{plush.city}
+--
+img: tsunderdog1.png
+--
+time: 2022-12-19
+aref: rinidisc
+sref: danfox
+source: @a[href: "https://meow.social/@rinidisc/109537437306131897"]{meow.social}
+--
+img: RiniDisc2.png
+img: RiniDisc3.png
+--
+time: 2022-12-21
+aref: rinidisc
+source: @a[href: "https://meow.social/@rinidisc/109548817592975903"]{meow.social}
+--
+img: RiniDisc4.png
+--
+time: 2022-12-25
+aref: tacophox
+source: @a[href: "https://meow.social/@tacophox/109576216706114904"]{meow.social}
+--
+img: tacophox2.png
+--
+time: 2022-12-26
+aref: rinidisc
+sref: mariken
+source: @a[href: "https://meow.social/@rinidisc/109580477577647312"]{meow.social}
+Xenia is being overbearing about her computer opinions!
+--
+img: RiniDisc13.jpeg
+--
 time: 2022-12-29
 aref: voltbun
 sref: mariken
@@ -473,32 +420,66 @@ source: @a[href: "https://meow.social/@voltbun/109600348286574222"]{meow.social}
 --
 img: voltbun1.png
 --
-time: 2022-07-20
-aref: scaliebur
+time: 2023-01-02
+author: Anonymous @small{(as per request)}
+sub: @a[href: "https://schelling.pt/@panchromaticity"]{Xeniamorph} and @a[href: "https://social.treehouse.systems/@fox"]{Fox}
+source: @a[href: "https://schelling.pt/@panchromaticity/109618378195775775"]{First sighting}
+--
+img: unknown1.jpeg
+--
+time: 2023-01-08
+aref: rinidisc
+sref: fauli
+source: @a[href: "https://meow.social/@rinidisc/109650834427826048"]{meow.social}
+--
+img: RiniDisc5.png
+img: RiniDisc6.png
+--
+time: 2023-01-12
+aref: hazardmech
 sref: mariken
-source: @a[href: "https://twitter.com/scaliebur/status/1549960623248769025"]{Twitter}
+source: @a[href: "https://www.tumblr.com/hazardmech/706275828154122240"]{Tumblr}
 --
-img: scaliebur1.png
+img: hazardmech1.jpg
+img: hazardmech2.jpg
 --
-time: 2023-02-19
-aref: mariken
-source: @a[href: "https://www.tumblr.com/marikedrawinge/709727391846662144/xenia-the-linux-fox-2023-i-dont-know-if-she-uses"]{Tumblr}
-Of course Xenia uses vim!
+time: 2023-01-18
+aref: rinidisc
+sref: mariken
+source: @a[href: "https://meow.social/@rinidisc/109713069555919700"]{meow.social}
+Xenia hugs her Tux plushy.
 --
-img: marikedrawinge2.jpg
+img: RiniDisc12.png
+--
+time: 2023-01-18
+aref: gale
+sref: mariken
+source: @a[hreaf: "https://www.tumblr.com/gale-draws/706800740931338240/old-rough-sketch-of-xenia-the-linux-fox"]{Tumblr}
+--
+img: gale-draws1.jpg
+--
+time: 2023-01-24
+aref: xinjinmeng
+sref: fox
+source: @a[href: "https://dragon.style/@xinjinmeng/109742491044943466"]{dragon.style}
+--
+img: xinjinmeng1.png
+--
+time: 2023-02-01
+aref: rinidisc
+source: @a[href: "https://meow.social/@rinidisc/109791952664927854"]{meow.social}
+--
+img: RiniDisc7.png
+img: RiniDisc8.png
+@br
+img: RiniDisc9.png
+img: RiniDisc10.png
 --
 time: 2023-02-05
 aref: coel
 source: @a[href: "https://pounced-on.me/@coelacanthus/109810928923515834"]{pounced-on.me}
 --
 img: coelacanthus1.png
---
-time: 2023-03-01
-aref: tombofnull
-source: @a[href: "https://www.tombofnull.art/gallery/archive/2023/xenia.html"]{tombofnull.art}
---
-img: tombofnull1.png
-img: tombofnull2.png
 --
 time: 2023-02-07
 aref: eeveeeuphoria
@@ -508,12 +489,32 @@ A @a[href: "https://skunks.gay/download/Xenia-the-Fox-v2.wsz"]{skin} for @a[href
 img: Eevee2.png
 img: Eevee3.png
 --
-time: 2023-01-24
-aref: xinjinmeng
-sref: fox
-source: @a[href: "https://dragon.style/@xinjinmeng/109742491044943466"]{dragon.style}
+time: 2023-02-16
+aref: rinidisc
+source: @a[href: "https://meow.social/@rinidisc/109871851030068460"]{meow.social}
 --
-img: xinjinmeng1.png
+img: RiniDisc11.png
+--
+time: 2023-02-19
+aref: mariken
+source: @a[href: "https://www.tumblr.com/marikedrawinge/709727391846662144/xenia-the-linux-fox-2023-i-dont-know-if-she-uses"]{Tumblr}
+Of course Xenia uses vim!
+--
+img: marikedrawinge2.jpg
+--
+time: 2023-02-20
+aref: heatherhorns
+sref: mariken
+source: @a[href: "https://www.tumblr.com/heatherhorns/709806470431178752/xenias-transitionbeen-a-while-since-i-drew-xenia"]{Tumblr}
+--
+img: heatherhorns1.jpg
+--
+time: 2023-03-01
+aref: tombofnull
+source: @a[href: "https://www.tombofnull.art/gallery/archive/2023/xenia.html"]{tombofnull.art}
+--
+img: tombofnull1.png
+img: tombofnull2.png
 --
 time: 2023-03-15
 aref: neotheta
@@ -596,6 +597,20 @@ img: blubebbie2.png
 img: blubebbie3.png
 img: blubebbie4.png
 --
+time: 2023-05-15
+author: Connorduh
+sref: katnjiapus
+source: @a[href: "https://toot.site/@katnjiapus/110374658821053121"]{toot.site}
+This work was commissioned, but I couldn't find a proper profile online to attribute the artist. Any information on it appreciated.
+--
+img: connorduh1.png
+--
+time: 2023-05-21
+aref: nek0
+source: @a[href: "https://chaos.social/@nek0/110405499975161863"]{chaos.social}
+--
+img: nek0-1.png
+--
 time: 2023-05-28
 aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/110448203081699250"]{meow.social}
@@ -610,12 +625,6 @@ img: davidrevoy1.jpg
 img: davidrevoy2.jpg
 @br
 img: davidrevoy3.jpeg
---
-time: 2023-05-21
-aref: nek0
-source: @a[href: "https://chaos.social/@nek0/110405499975161863"]{chaos.social}
---
-img: nek0-1.png
 --
 time: 2023-06-13
 aref: kiri
@@ -656,6 +665,18 @@ source: @a[href: "https://peoplemaking.games/@hayny/110798570091054252"]{peoplem
 --
 img: hayny1.png
 --
+time: 2023-08-07
+aref: neotheta
+source: @a[href: "https://toot.finfur.net/@Neotheta/110848259687649111"]{finfur.net}
+--
+img: neotheta2.png
+--
+time: 2023-08-07
+aref: rinidisc
+source: @a[href: "https://meow.social/@rinidisc/110849344750985991"]{meow.social}
+--
+img: RiniDisc16.png
+--
 time: 2023-08-29
 aref: wolfprops
 sref: mariken
@@ -694,26 +715,6 @@ source: @a[href: "https://dragon.style/@xinjinmeng/111008984389660500"]{dragon.s
 --
 img: xinjinmeng2.png
 --
-time: 2023-08-07
-aref: neotheta
-source: @a[href: "https://toot.finfur.net/@Neotheta/110848259687649111"]{finfur.net}
---
-img: neotheta2.png
---
-time: 2023-08-07
-aref: rinidisc
-source: @a[href: "https://meow.social/@rinidisc/110849344750985991"]{meow.social}
---
-img: RiniDisc16.png
---
-time: 2023-05-15
-author: Connorduh
-sref: katnjiapus
-source: @a[href: "https://toot.site/@katnjiapus/110374658821053121"]{toot.site}
-This work was commissioned, but I couldn't find a proper profile online to attribute the artist. Any information on it appreciated.
---
-img: connorduh1.png
---
 time: 2023-09-11
 aref: naomidmoon
 source: @a[href: "https://woof.tech/@naomi_dmoon/111046434416466161"]{woof.tech}
@@ -748,18 +749,18 @@ source: @a[href: "https://dragon.style/@anthracite/111076340708497588"]{dragon.s
 --
 img: anthracite1.jpg
 --
-time: 2023-09-21
-aref: spade
-source: @a[href: "https://yiff.life/@creature_sp/111105028946083113"]{yiff.life}
---
-img: creature_sp1.png
---
 time: 2023-09-17
 aref: jacknorisk
 sref: mindraj
 This commission work has not been posted publicly by the author.
 --
 img: JackNorisk1.png
+--
+time: 2023-09-21
+aref: spade
+source: @a[href: "https://yiff.life/@creature_sp/111105028946083113"]{yiff.life}
+--
+img: creature_sp1.png
 --
 time: 2023-10-18
 aref: chimmie
@@ -790,7 +791,17 @@ source: @a[href: "https://www.furaffinity.net/view/54764470/"]{furaffinity.net}
 --
 img: neotheta_666.png
 --
-time: 2023-01-03
+time: 2023-12-21
+aref: ko
+source: @a[href: "https://yiff.life/@koko/111618932283595363"]{yiff.life}
+--
+img: Koko_opinions1.png
+img: Koko_opinions2.png
+@br
+img: Koko_opinions3.png
+img: Koko_opinions4.png
+--
+time: 2024-01-03
 aref: chimmie
 source: @a[href: "https://catcatnya.com/@gameplayervent/111691462209187033"]{catcatnya.com}
 source: @a[href: "https://xenia.chimmie.k.vu/#xenia_drawing1"]{xenia.chimmie.k.vu (SVG)}
@@ -803,6 +814,12 @@ source: @a[href: "https://dragon.style/@KinkyTurtle/111695134871595592"]{dragon.
 source: @a[href: "https://www.furaffinity.net/view/55071401/"]{furaffinity.net}
 --
 img: KinkyTurtle1.jpg
+--
+time: 2024-01-06
+aref: rinidisc
+source: @a[href: "https://meow.social/@rinidisc/111711281630824983"]{meow.social}
+--
+img: RiniDisc_infodump.png
 --
 time: 2024-01-07
 aref: kkzero
@@ -849,6 +866,13 @@ source: @a[href: "https://xenia.chimmie.k.vu/#xenia_thank_you"]{xenia.chimmie.k.
 --
 img: chimmie_valentine.png
 --
+time: 2024-02-14
+aref: chimmie
+source: @a[href: "https://catcatnya.com/@gameplayervent/111929946075683492"]{catcatnya.com}
+source: @a[href: "https://xenia.chimmie.k.vu/#xenia_drawing6"]{xenia.chimmie.k.vu (SVG)}
+--
+img: chimmie_shark.png
+--
 time: 2024-02-17
 aref: lennox
 source: @a[href: "https://foxpile.online/@lennox/111949178623744636"]{foxpile.online}
@@ -860,6 +884,13 @@ aref: rinidisc
 source: @a[href: "https://meow.social/@rinidisc/111978506970239369"]{meow.social}
 --
 img: RiniDisc_Reference.png
+--
+time: 2024-02-24
+aref: vectorassembly
+source: @a[href: "https://md.ilyamikcoder.com/@de_lysander/111986685334869179"]{md.ilyamikcoder.com}
+--
+img: vectorassembly1.png
+img: vectorassembly2.png
 --
 time: 2024-02-27
 aref: chimmie
@@ -880,35 +911,6 @@ source: @a[href: "https://wetdry.world/@drakonic/112066459888207366"]{wetdry.wor
 --
 img: drakonic_stickers.png
 --
-time: 2024-03-20
-aref: rinidisc
-source: @a[href: "https://meow.social/@rinidisc/112129420337449442"]{meow.social}
---
-img: RiniDisc_Goth.png
---
-time: 2024-01-06
-aref: rinidisc
-source: @a[href: "https://meow.social/@rinidisc/111711281630824983"]{meow.social}
---
-img: RiniDisc_infodump.png
---
-time: 2023-12-21
-aref: ko
-source: @a[href: "https://yiff.life/@koko/111618932283595363"]{yiff.life}
---
-img: Koko_opinions1.png
-img: Koko_opinions2.png
-@br
-img: Koko_opinions3.png
-img: Koko_opinions4.png
---
-time: 2024-02-14
-aref: chimmie
-source: @a[href: "https://catcatnya.com/@gameplayervent/111929946075683492"]{catcatnya.com}
-source: @a[href: "https://xenia.chimmie.k.vu/#xenia_drawing6"]{xenia.chimmie.k.vu (SVG)}
---
-img: chimmie_shark.png
---
 time: 2024-03-19
 author: Unknown
 source: @a[href: "https://wetdry.world/@jessienab/112123633119764212"]{wetdry.world}
@@ -916,9 +918,14 @@ Commission work plushy. Very huggable.
 --
 img: Xenia_plushy.jpg
 --
-time: 2024-02-24
-aref: vectorassembly
-source: @a[href: "https://md.ilyamikcoder.com/@de_lysander/111986685334869179"]{md.ilyamikcoder.com}
+time: 2024-03-20
+aref: rinidisc
+source: @a[href: "https://meow.social/@rinidisc/112129420337449442"]{meow.social}
 --
-img: vectorassembly1.png
-img: vectorassembly2.png
+img: RiniDisc_Goth.png
+--
+time: 2024-03-25
+aref: Anna
+source: @a[href: "https://mastodon.art/@Anna/112158537770353454"]{mastodon.art}
+--
+img: anna_roulette.mp4
