@@ -1,7 +1,7 @@
-alisonkit Alison Kit https://chitter.xyz/@alisonkit@mastodon.art
+alisonkit Alison Kit https://mastodon.art/@alisonkit
 anthracite Anthracite https://dragon.style/@anthracite
 apt apt https://cybre.space/@apt
-benlubar Ben Lubar https://chitter.xyz/@ben@lubar.me
+benlubar Ben Lubar https://mastodon.lubar.me/@ben
 bicabee Bica Bee https://twitter.com/BiccaBee
 blindsight BlindSight_Art https://twitter.com/BlindSight_Art
 blubebbie blubebbie https://meow.social/@blubebbie
@@ -48,7 +48,7 @@ kinkyturtle KinkyTurtle https://dragon.style/@KinkyTurtle
 kiri Kiri https://vt.social/@ExpiredPopsicle
 kkzero kkzero https://chitter.xyz/@kkzero
 ko Ko https://yiff.life/@koko
-konomi Konomi https://chitter.xyz/@konomikitten@tech.lgbt
+konomi Konomi https://tech.lgbt/@konomikitten
 lamna Lamna https://twitter.com/artlamna
 lav LAV https://twitter.com/lilblucat
 lennox lennox https://foxpile.online/@lennox
@@ -91,7 +91,7 @@ tombofnull Null https://voidwood.online/@tombofnull
 tori Tori https://mastodon.social/@QuestForTori
 tosia Tosia https://snowdin.town/users/tosia
 tsunderdog Tsunderdog https://plush.city/@tsunderdog
-tudbut TudbuT https://chitter.xyz/@TudbuT@tech.lgbt
+tudbut TudbuT https://tech.lgbt/@TudbuT
 usbfig USB https://twitter.com/USBFIG
 vectorassembly vectorassembly https://md.ilyamikcoder.com/@de_lysander
 virtualrook VirtualRook https://mstdn.games/@VirtualRook
