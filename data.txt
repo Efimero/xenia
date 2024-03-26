@@ -626,6 +626,12 @@ source: @a[href: "https://vt.social/@ExpiredPopsicle/110535376184347488"]{vt.soc
 --
 img: kiri1.png
 --
+time: 2023-06-20
+aref: tacophox
+source: @a[href: "https://meow.social/@tacophox/110577808377295833"]{meow.social}
+--
+img: tacophox3.png
+--
 time: 2023-06-23
 aref: freja
 source: @a[href: "https://freja.zone/@freja/110591051082235494"]{freja.zone}
@@ -924,3 +930,29 @@ source: @a[href: "https://md.ilyamikcoder.com/@de_lysander/111986685334869179"]{
 --
 img: vectorassembly1.png
 img: vectorassembly2.png
+--
+time: 2024-03-25
+aref: Anna
+source: @a[href: "https://mastodon.art/@Anna/112158537770353454"]{mastodon.art}
+--
+@video[src: "https://efimero.github.io/xenia-images/anna_roulette.mp4" autoplay: #t loop: #t]
+--
+time: 2024-03-27
+aref: helixnebula
+source: @a[href: "https://furries.club/@helixnebulaart/112168668810691123"]{furries.club}
+--
+img: HelixNebula1.png
+--
+time: 2024-04-17
+aref: dancrescent
+source: @a[href: "https://pounced-on.me/@dancrescentwolf/112288173920746670"]{pounced-on.me}
+source: @a[href: "https://www.furaffinity.net/view/56318541/"]{Fur Affinity}
+--
+img: DanCrescentWolf1.png
+--
+time: 2024-04-29
+aref: magpi
+source: @a[href: "https://meow.social/@magpi/112352753111576631"]{meow.social}
+source: @a[href: "https://www.furaffinity.net/view/56449639/"]{Fur Affinity}
+--
+img: magpi1.png
