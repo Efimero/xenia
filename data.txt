@@ -1,6 +1,6 @@
 --
 time: 2020-05-26
-@time[datetime: "2021-04-25" title: "2021-04-25"]{(Snouts Online has been gone for a bit, so that profile is no longer available)}@br
+@time[datetime: "2021-04-25" title: "2021-04-25"]{(Snouts Online has been gone for a bit, so that profile is no longer available)} @br
 In order, @a[href: "https://mastodon.art/@firstprogenitor"]{FirstProgenitor}, @a[href: "https://plush.city/@heatherhorns"]{HeatherHorns}, and Marbles made these versions, later made into @comment{@a[href: "https://masto.werefox.dev/@shadow8t4/104389870380303106"]{stickers} by @a[href: "https://masto.werefox.dev/@shadow8t4/104389870380303106"]{Shadow8t4}}stickers by @a[href: "https://bark.lgbt/@alicew"]{Alice}@comment{@time[datetime: "2022-07-28" title: "2022-07-28"]{(It seems werefox.dev is also gone now) fixed as of @time[datetime: "2024-03-23" title: "2024-03-23"]{2024-03-23}}}.
 --
 img: firstprogenitor1.png
@@ -62,7 +62,7 @@ source: @a[href: "https://archive.is/rTDpr"]{cybre.space}
 --
 img: apt1.png
 --
-@br
+time: 2021-05-05
 aref: danfox
 sub: @a[href: "https://mastodon.online/@Wafer"]{Wafer} @time[datetime: "2022-07-28" title: "2022-07-28"]{(This piece was originally accidentally misatributted to Wafer)}
 source: @a[href: "https://chitter.xyz/@danfoxx/106179176796834932"]{chitter.xyz}
@@ -83,6 +83,7 @@ Lua commissioned Cricket to make this cute art of Xenia at work.
 --
 img: cricket1.jpeg
 --
+time: 2021-05-14
 aref: nerithekitten
 sref: luavixen
 source: @a[href: "https://twitter.com/luavixen/status/1393253170680238084"]{Twitter}
@@ -115,6 +116,7 @@ source: @a[href: "https://www.furaffinity.net/view/36600939/"]{Fur Affinity}
 --
 img: lizzieliz1.jpg
 --
+time: 2020-10-22
 aref: praetorinfinite
 sref: zutroy
 source: @a[href: "https://www.reddit.com/r/furry/comments/jfz8di/oc_xenia_the_forgotten_linux_mascot/"]{Reddit}
