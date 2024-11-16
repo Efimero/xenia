@@ -228,7 +228,7 @@ img: RiniDisc1.jpeg
 time: 2022-10-15
 aref: tacophox
 sref: nano
-source: @a[href: "https://twitter.com/tacophox/status/1581207544391139331"]{Twitter}
+source: @a[href: "https://meow.social/@tacophox/109183804737574211"]{meow.social}
 --
 img: tacophox1.jpeg
 --
