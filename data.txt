@@ -927,7 +927,7 @@ img: Xenia_plushy.jpg
 --
 time: 2024-02-24
 aref: vectorassembly
-source: @a[href: "https://md.ilyamikcoder.com/@de_lysander/111986685334869179"]{md.ilyamikcoder.com}
+source: @a[href: "https://mk.ilyamikcoder.com/notes/a36z71rhqn9003ts"]{mk.ilyamikcoder.com}
 --
 img: vectorassembly1.png
 img: vectorassembly2.png
@@ -1088,4 +1088,79 @@ aref: tacophox
 source: @a[href: "https://meow.social/@tacophox/113477409986686223"]{meow.social}
 --
 img: tacophox3.jpeg
+--
+time: 2023-03-14
+aref: poppy
+source: @a[href: "https://www.furaffinity.net/view/51365294/"]{Fur Affinity}
+--
+img: poppy_thinkpad.png
+--
+time: 2024-01-10
+aref: poppy
+source: @a[href: "https://wetdry.world/@poppyartist/111729494754779274"]{wetdry.world}
+--
+img: poppy_dc.png
+--
+time: 2024-11-18
+aref: duetsneplynx
+source: @a[href: "https://pawb.fun/@DuetSneplynx/113501701989890905"]{pawb.fun}
+--
+img: DuetSneplynx_Taur.png
+--
+time: 2024-12-06
+aref: cosmopawt
+source: @a[href: "https://yiff.life/@cosmopawt/113604072992850829"]{yiff.life}
+--
+@video[src: "https://efimero.github.io/xenia-images/cosmopawt1.mp4" autoplay: #t loop: #t]
+--
+time: 2024-12-06
+aref: cosmopawt
+source: @a[href: "https://yiff.life/@cosmopawt/113604084669058461"]{yiff.life}
+--
+@video[src: "https://efimero.github.io/xenia-images/cosmopawt2.mp4" autoplay: #t loop: #t]
+--
+time: 2024-12-15
+aref: anarceus
+source: @a[href: "https://boosts.squirrel.pictures/@flann/statuses/01JF53RT7JZNPV7AEWZT7GKRD4"]{boosts.squirrel.pictures}
+--
+img: anarceus.jpeg
+--
+time: 2025-01-19
+aref: vectorassembly
+source: @a[href: "https://mk.ilyamikcoder.com/notes/a36z71rhqn9003ts"]{mk.ilyamikcoder.com}
+--
+img: vectorassembly3.png
+--
+time: 2024-04-20
+aref: quazr-sci
+source: @a[href: "https://www.furaffinity.net/view/56348389/"]{Fur Affinity}
+--
+img: quazr-sci_1.png
+--
+time: 2024-06-23
+aref: tomodeluxe
+source: @a[href: "https://www.newgrounds.com/art/view/tomokodeluxe/xenia-wallpaper-commission"]{newgrounds}
+--
+img: tomokodeluxe_xenia-wallpaper-commission_1.webp
+img: tomokodeluxe_xenia-wallpaper-commission_2.webp
+img: tomokodeluxe_xenia-wallpaper-commission_3.webp
+--
+time: 2025-02-11
+aref: qreativa
+source: @a[href: "https://chitter.xyz/@qreativa/113982710256016622"]{chitter.xyz}
+--
+img: qRea_1.png
+img: qRea_2.png
+--
+time: 2025-03-12
+aref: kimoradraws
+source: @a[href: "https://equestria.social/@zythiria/114148310446308434"]{equestria.social}
+--
+img: KimoraDraws1.png
+--
+time: 2025-03-16
+aref: itsswumbo
+source: @a[href: "https://chitter.xyz/@itsswumbo/114170962407883849"]{chitter.xyz}
+--
+img: itsswumbo1.png
 

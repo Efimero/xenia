@@ -1,4 +1,5 @@
 alisonkit Alison Kit https://mastodon.art/@alisonkit
+anarceus anarceus https://boosts.squirrel.pictures/@anarceus
 Anna Anna https://mastodon.art/@Anna
 anthracite Anthracite https://dragon.style/@anthracite
 apt apt https://cybre.space/@apt
@@ -13,6 +14,7 @@ chromacat248 Chroma https://meow.social/@chromacat248
 chimmie Chimmie https://chimmie.k.vu
 coel Coel https://pounced-on.me/@coelacanthus
 colloidalamber colloidalamber https://www.tumblr.com/colloidalamber
+cosmopawt cosmopawt https://yiff.life/@cosmopawt
 cricket Cricket https://twitter.com/CRICKETS_ROCK
 dancrescent DanCrescentWolf https://pounced-on.me/@dancrescentwolf
 danfox Danfoxx https://chitter.xyz/@danfoxx
@@ -44,6 +46,7 @@ hukeng HukengArt https://twitter.com/HukengArt
 ifixcoinops Dan https://mstdn.social/@ifixcoinops
 interstellar1 Interstellar_1 https://furry.engineer/@Interstellar1/
 isabelle Isabelle https://twitter.com/Thinkertron2000
+itsswumbo itsswumbo https://chitter.xyz/@itsswumbo
 ivory Ivory https://wetdry.world/@ioletsgo
 jacknorisk Jack Norisk (Laura Giraud) https://www.jacknorisk.art/
 jikhai Jik Hai https://twitter.com/Jik_hai
@@ -51,6 +54,7 @@ jo Jo https://tech.lgbt/@ShadowJonathan
 junebug Junebug https://toot.garden/@junebug
 katnjiapus katnjiapus https://toot.site/@katnjiapus
 kay Kay https://chitter.xyz/@kaydemonlp
+kimoradraws KimoraDraws https://equestria.social/@zythiria
 kinkyturtle KinkyTurtle https://dragon.style/@KinkyTurtle
 kiri Kiri https://vt.social/@ExpiredPopsicle
 kkzero kkzero https://chitter.xyz/@kkzero
@@ -78,10 +82,13 @@ nek0 nek0 https://chaos.social/@nek0
 neotheta Neotheta https://toot.finfur.net/@Neotheta
 nerithekitten NeriTheKitten https://twitter.com/NeriTheKitten
 nervaniias Nervaniias https://www.furaffinity.net/user/nervaniias/
+poppy Poppy Farbird https://tealfoxxo.perchinup.top/
 praetorinfinite PraetorInfinite https://www.deviantart.com/praetorinfinite
 puapka1 Puapka1 https://twitter.com/Puapka1
 pyrox Pyrox https://social.pyrox.dev/pyrox
 qmii Q-mii https://twitter.com/QmiiProductions
+qreativa qRea https://chitter.xyz/@qreativa
+quazr-sci QuazrSci https://quazarasci.carrd.co/
 realtytrends Realty Trends https://twitter.com/realty_trends
 rick Rick https://toot.gnous.eu/@rick
 rinidisc RiniDisc https://meow.social/@rinidisc
@@ -99,12 +106,13 @@ tacophox TACO.phox https://meow.social/@tacophox
 thegreenherring The Green Herring https://thegreenherring.neocities.org/
 toisanemoifs ToisaNeMoifs https://www.deviantart.com/toisanemoifs
 tombofnull Null https://voidwood.online/@tombofnull
+tomodeluxe TomoDeluxe https://tomokodeluxe.newgrounds.com/
 tori Tori https://mastodon.social/@QuestForTori
 tosia Tosia https://snowdin.town/users/tosia
 tsunderdog Tsunderdog https://plush.city/@tsunderdog
 tudbut TudbuT https://tech.lgbt/@TudbuT
 usbfig USB https://twitter.com/USBFIG
-vectorassembly vectorassembly https://md.ilyamikcoder.com/@de_lysander
+vectorassembly vectorassembly https://mk.ilyamikcoder.com/@vectorassembly
 virtualrook VirtualRook https://mstdn.games/@VirtualRook
 voltbun VoltBun https://meow.social/@voltbun
 wolfprops Wolf's Prop Creations https://www.furaffinity.net/user/wolfspropcreations/
