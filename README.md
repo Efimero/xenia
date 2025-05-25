@@ -11,3 +11,7 @@ The website is built using racket. It reads the `data.txt` and `people.txt` file
 If you want to PR, but are not comfortable with the format you can just provide the images in the PR to the `xenia-images` repo and leave the links and metadata in the comments to the PR committed. It's ok. If you don't know how to make a PR, just contact me on [chitter](https://chitter.xyz/@efi) or [email](mailto:ardecopon+xenia@gmail.com).
 
 Made wtih [Glitch](https://glitch.com/)
+
+# Repository moved
+This repo now lives at https://git.gay/Efi/xenia
+and the images at https://git.gay/Efi/xenia-images
