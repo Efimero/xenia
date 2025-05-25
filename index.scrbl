@@ -25,7 +25,6 @@
     @element/not-empty['flag class: "b"]{}
     @br
     @center{
-      @div[class: "webkit"]{@element['warn class: "r"]{⚠️}@element['warn class: "l"]{⚠️}Xenia suggests you use @a[href: "https://www.mozilla.org/en-US/firefox/new/" title: "🔥🦊"]{Firefox} for better safety and comfort.}
       @iframe[width: 560 height: 315 src: "https://www.youtube-nocookie.com/embed/0b4eW1KAuWE" frameborder: 0 allow: "accelerometer; autoplay: clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen: "true"]
       @br
       Thanks to Immy for this awesome video.}
