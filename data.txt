@@ -794,6 +794,7 @@ img: chimmie_firefox.png
 --
 time: 2023-12-11
 aref: neotheta
+sref: faoluin
 source: @a[href: "https://toot.finfur.net/@Neotheta/111562836805927368"]{finfur.net}
 source: @a[href: "https://www.furaffinity.net/view/54764470/"]{furaffinity.net}
 --
@@ -924,6 +925,10 @@ source: @a[href: "https://wetdry.world/@jessienab/112123633119764212"]{wetdry.wo
 Commission work plushy. Very huggable.
 --
 img: Xenia_plushy.jpg
+img: Xenia_plushy2.jpg
+@br
+img: Xenia_plushy3.jpg
+img: Xenia_plushy4.jpg
 --
 time: 2024-02-24
 aref: vectorassembly
@@ -946,6 +951,7 @@ img: HelixNebula1.png
 --
 time: 2024-04-17
 aref: dancrescent
+sref: dawnaur
 source: @a[href: "https://pounced-on.me/@dancrescentwolf/112288173920746670"]{pounced-on.me}
 source: @a[href: "https://www.furaffinity.net/view/56318541/"]{Fur Affinity}
 --
@@ -1163,4 +1169,108 @@ aref: itsswumbo
 source: @a[href: "https://chitter.xyz/@itsswumbo/114170962407883849"]{chitter.xyz}
 --
 img: itsswumbo1.png
-
+--
+time: 2023-07-19
+aref: alexevier1
+source: @a[href: "https://www.newgrounds.com/art/view/alexevier1/xenia-the-fox"]{newgrounds}
+--
+img: alexevier1_xenia-the-fox.png
+img: alexevier1_xenia-the-fox2.png
+--
+time: 2023-10-03
+aref: alisonkit
+source: @a[href: "https://mastodon.art/@alisonkit/111172248680433197"]{mastodon.art}
+--
+img: AlisonKit1.png
+--
+time: 2023-10-26
+aref: drakonic
+source: @a[href: "https://mastodon.art/@alisonkit/111172248680433197"]{wetdry.world}
+--
+img: drakonic1.png
+--
+time: 2023-11-08
+aref: thorny
+source: @a[href: "https://chitter.xyz/@oniscidea/111374086869631975"]{chitter.xyz}
+--
+img: Thorny1.webp
+--
+time: 2024-04-19
+aref: itsswumbo
+source: @a[href: "https://chitter.xyz/@itsswumbo/112298034849888993"]{furaffinity}
+--
+img: itsswumbo2.png
+--
+time: 2024-06-27
+aref: ensigngames
+source: @a[href: "https://wetdry.world/@EnsignGames/112686179434306165"]{wetdry.world}
+--
+img: EnsignGames1.png
+--
+time: 2024-01-14
+aref: osmoru
+sref: lamb
+source: @a[href: "https://x.com/osmoru/status/1746321730401173985"]{Twitter}
+--
+img: osmoru1.jpeg
+--
+time: 2024-09-08
+aref: avisignis
+source: @a[href: "https://firebirbcat.neocities.org/"]{neocities.org}
+88x31 gif!
+--
+img: Xenia_88x31_avis_ignis.gif
+--
+time: 2024-08-26
+author: JF049
+source: @a[href: "https://queer.hacktivis.me/notice/AlN0K6LsO4JdByeafY"]{queer.hacktivis.me}
+I couldn't find the original source :(
+--
+img: JF049_1.png
+--
+time: 2024-10-05
+aref: keerok
+source: @a[href: ""https://thekeerok.neocities.org/art]{neocities.org}
+--
+img: Xenia_keerok_1.jpg
+--
+time: 2024-09-13
+aref: cyberpatch
+source: @a[href: "https://skaverat.net/@cyberpatch/113129931254501316"]{skaverat.net}
+--
+img: cyberpatch1.webp
+--
+time: 2025-01-07
+aref: zunekix
+source: @a[href: "https://bark.lgbt/@wolffoxkatana/113787747876677792"]{bark.lgbt}
+source: @a[href: "https://bark.lgbt/@wolffoxkatana/113821850536016304"]{bark.lgbt}
+--
+img: zunekix1.png
+img: zunekix2.jpg
+--
+time: 2025-03-06
+aref: alany
+source: @a[href: "https://fearness.org/notes/a517augkxtau0h8c"]{fearness.org}
+--
+img: alany1.webp
+--
+time: 2025-03-15
+aref: justa
+source: @a[href: "https://www.tumblr.com/justa-regularuser/778107484185542656/could-you-do-a-little-doodle-of-xenia-the-linux?"]{Tumblr}
+--
+img: justa-regularuser1.jpg
+--
+time: 2025-03-30
+aref: kookyfox
+source: @a[href: "https://meow.social/@kookyfox/114330763799215176"]{meow.social}
+source: @a[href: "https://www.youtube.com/watch?v=cXcTek_kF70"]{Youtube}
+--
+@video[src: "https://efimero.github.io/xenia-images/kookyfox1.mp4" controls: #t autoplay: #f loop: #f]
+--
+time: 2025-05-05
+aref: fizzy
+source: https://chitter.xyz/@fizzydev/114455238700269923
+It's a Minecraft skin!
+--
+img: fizzy1.png
+img: fizzy2.png
